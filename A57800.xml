@@ -1,0 +1,2968 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Royal voyage, or, The Irish expedition a tragicomedy, acted in the years 1689 and 90.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 122 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57800</idno>
+            <idno type="STC">Wing R2157</idno>
+            <idno type="STC">ESTC R35329</idno>
+            <idno type="EEBO-CITATION">15247561</idno>
+            <idno type="OCLC">ocm 15247561</idno>
+            <idno type="VID">103279</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57800)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103279)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1193:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Royal voyage, or, The Irish expedition a tragicomedy, acted in the years 1689 and 90.</title>
+               </titleStmt>
+               <extent>[6], 32 [i.e. 56] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Numerous errors in paging.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103279:1" rendition="simple:additions"/>
+            <p>THE <hi>Royal Voyage.</hi> OR THE IRISH EXPEDITION: A Tragicomedy, <hi>Acted in the Years</hi> 1689 <hi>and</hi> 90.</p>
+            <q>
+               <p>—<hi>Regis ad Exemplum</hi>
+               </p>
+               <bibl>Claud.</bibl>
+            </q>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Richard Baldwin,</hi> in the <hi>Old-Baley, A. D.</hi> 1690.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:103279:2"/>
+            <pb facs="tcp:103279:2"/>
+            <head>TO THE READER.</head>
+            <p>NOT to cheat thee with a Preface inſtead of a Book, nor make this Brat of my own Brain ſuch a Rickety Crea<g ref="char:EOLhyphen"/>ture, as to have its Head bigger than all the reſt of the Body, both middle and t'other end; I'll only diſpatch a little ne<g ref="char:EOLhyphen"/>ceſſary buſineſs, and then Gentlemen ſtep in and take your Places: Or to be a little more Heroical, the Muſick has played the laſt time, the Candles are all Snuffed, and the Curtain is juſt about to be drawn up.—Know ye, firſt and foremoſt, that the Name of this following Play relates to another part yet to come, which will more ſignally fill the Title; though this has enough of the <hi>Royal Voyage</hi> in it to make that good and proper in this, as well as the other. The <hi>Con<g ref="char:EOLhyphen"/>queſt of Granada</hi> is only begun in the firſt part, nay, no more than the Siege on't, yet the propriety of the Title none ever queſtioned to that part as well as the other.</p>
+            <p>The next thing I'm to do you, to wit, is, that the <hi>End</hi> of this Play is chiefly to expoſe the Perfidious, Baſe, Cowardly, Bloody Na<g ref="char:EOLhyphen"/>ture of the <hi>Iriſh,</hi> both in this and all paſt Ages, eſpecially to give as lively a Scheme as will conſiſt with what's paſt, ſo far of the worſe than Heatheniſh Barbarities committed by them on their Peaceable Britiſh Neighbours, in that Bloody and Deteſtable Maſſacre and Rebellion of <hi>Forty One,</hi> which will make the Nation ſtink as long as there's one Bog or Bog-trotter left in it.</p>
+            <p>Wherein, though every one knows this way of Writing al<g ref="char:EOLhyphen"/>lows great Liberty; I proteſt 'twas impoſſible to invent more dread<g ref="char:EOLhyphen"/>ful things than I found ready to my Hand; nay ſcarce could a ſingle circumſtance be any where added to ſet their Murders in a better
+<pb facs="tcp:103279:3"/>Light,—the Inſtances themſelves, as Hiſtory gives 'em, being ſuch glaring ones, that Hell-Fire itſelf could ſcarce make 'em brighter. Nor even here have I taken any thing for granted, though there's ſo much abundant Evidence of the truth of all here aſſerted, even from the acknowledgment of ſome more ingenuous among 'em, <hi>Beling, Walſh,</hi> &amp;c. of their own Writers, and from the Pride and glory which others of them take in relating what then happened, inſtead of thoſe few Hundred Thouſands Murder'd, only wiſhing that All had gon the ſame way; but dropping that advantage, have confined my ſelf even to the Chaſtneſs of an Hiſtorian, examining as the Reader will find, all the material Objections thoſe wicked People can make to our Accuſations, and all thoſe thin Excuſes where<g ref="char:EOLhyphen"/>with they generally impoſe upon the Ignorant, and in vain en<g ref="char:EOLhyphen"/>deavour to palliate their unheard of Inhumanities. I am confident I have herein done 'em Juſtice, and urged their Arguments as far and as home, perhaps cloſer, than any of them could have done for themſelves. And if I have made one Exception from the general Rule, and introduced one Iriſhman amongſt 'em all, brave and ho<g ref="char:EOLhyphen"/>neſt (as far as his Cauſe would let him be,) to foil the reſt; if I have gone a little beyond the Pale, and left Truth behind me, 'tis a pardonable fault, and the more eaſily, becauſe perhaps it mayn't be ſo common to err on the ſide of Good-nature. In his Character it's indeed deſigned to ſhew that there may poſſibly be ſome Individuals among 'em better than the reſt of the Nation.—In that of all the reſt, that if ſuch a thing happens, 'tis but a chance, and won't often be brought into Example by the others. After all, let any Man take the pains but to read the Iriſh Hiſtories, Foreigners as well as others, nay their own too, if he has any patience, into the bargain, and if he does not confeſs that I have not, nay cannot miſrepreſent the <hi>Iriſh,</hi> when I ſpeak any thing ill of 'em, I'll be content to be ſent over in<g ref="char:EOLhyphen"/>to that bleſſed Iſland, and live there 'till I've forgot my Mother Tongue, and grow as Iriſh as <hi>O Hanlan's,</hi> &amp;c) as their mannerly Proverb has it.)</p>
+            <p>Tho on t'other ſide, ſo far is this piece from any Reflection on the Britiſh there, that one main end thereof is to give 'em their due En<g ref="char:EOLhyphen"/>comiums, and juſt Honour.</p>
+            <pb facs="tcp:103279:3"/>
+            <p>In order whereunto, the principal brave Actions performed by them at the wonder of the World, and confuſion of their Enemies, under all apparent diſadvantages imaginable, Treachery of ſome, Cowar<g ref="char:EOLhyphen"/>diſe of others, want of Neceſſaries, a numerous well-provided Ar<g ref="char:EOLhyphen"/>my preſſing againſt 'em, are not (as many as could be handſomly brought in here) neglected, tho' the Hiſtorical order, unneceſſary here, perhaps not obſerved.</p>
+            <p>For the manner in which thoſe actions are introduced, 'tis done the moſt inoffenſively that could be poſſibly contrived; —'tis out of choice that I have named no Perſons, unleſs of the Enemies ſide. —As all ſhared in the Danger, ſo let 'em all in the Glory,—what<g ref="char:EOLhyphen"/>ever parties there might then be, or are ſince, there ſhall be none in this Play, but <hi>Engliſh</hi> and <hi>Iriſh.</hi>
+            </p>
+            <p>That the deſirable work of their entire Conqueſt may ſoon be ac<g ref="char:EOLhyphen"/>compliſhed, which all <hi>Europe</hi> as well as <hi>England</hi> groans for, the Second part of this Drama really acted, and our glorious King <hi>William</hi> there conquering all our Enemies, I am ſure every honeſt Man wiſhes as heartily as I do; — for thoſe who hope the contrary, tho' their own Countries, <hi>Europe</hi>'s, and Religion's implacable Enemies, I'd wiſh 'em no greater plague, than poſſeſſed with all the Rage, Ma<g ref="char:EOLhyphen"/>lice, and defeated deſperate Wickedneſs of an Iriſh-man, to ſtand by and ſee our great victorious Prince enter Triumphantly into his Royal City of <hi>Dublin,</hi> — which a few Weeks may in all fair pro<g ref="char:EOLhyphen"/>bability produce, and a few more the <hi>Second Part</hi> of the <hi>Royal Voyage,</hi> or <hi>Iriſh Expedition.</hi>
+            </p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:103279:4"/>
+            <head>DRAMATIS PERSONAE.</head>
+            <list>
+               <item>
+                  <hi>Tyrconnel,</hi>
+               </item>
+               <item>
+                  <hi>Primate,</hi>
+               </item>
+               <item>
+                  <hi>Archbiſhop of</hi> Caſhel,</item>
+               <item>
+                  <hi>Nugent,</hi>
+               </item>
+               <item>
+                  <hi>Neagle,</hi>
+               </item>
+               <item>
+                  <hi>Iriſh Lords,</hi>
+               </item>
+               <item>
+                  <hi>Hamilton,</hi>
+               </item>
+               <item>
+                  <hi>Macarty,</hi>
+               </item>
+               <item>
+                  <hi>Talbot,</hi>
+               </item>
+               <item>
+                  <hi>Butler,</hi>
+               </item>
+               <item>
+                  <hi>Clancarty,</hi>
+               </item>
+               <item>
+                  <hi>Macdonald,</hi>
+               </item>
+               <item>
+                  <hi>Iriſh Soldiers, Meſſengers, Officers,</hi> &amp;c.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Governor of Inniskilling,</hi>
+               </item>
+               <item>
+                  <hi>Collonels, Souldiers,</hi> &amp;c.</item>
+               <item>
+                  <hi>Governor of</hi> Derry,</item>
+               <item>
+                  <hi>Collonels, Souldiers,</hi>
+               </item>
+               <item>
+                  <hi>Engliſh Captains with Relief to</hi> Derry,</item>
+               <item>
+                  <hi>Engliſh General,</hi>
+               </item>
+               <item>
+                  <hi>Souldiers, Officers,</hi> &amp;c.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="drama">
+            <pb facs="tcp:103279:4"/>
+            <head>THE ROYAL VOYAGE: OR, THE <hi>Iriſh Expedition.</hi>
+            </head>
+            <div n="1" type="act">
+               <div n="1" type="scene">
+                  <head>ACT I. SCENE I. DUBLIN-<hi>Caſtle.</hi>
+                  </head>
+                  <stage>[<hi>Enter</hi> Tyrconnel, Nugent, Neagle, Mac-carty, Hamilton, <hi>the titula Archbiſhop of</hi> Caſhell, <hi>and Primate;</hi> Iriſh <hi>Lords.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>THus far the <hi>CA<g ref="char:V">Ʋ</g>SE</hi> has with Succeſs been crown'd;</l>
+                     <l>And Great St. <hi>Patrick</hi> bleſt his ſacred Ground;</l>
+                     <l>Has been his own lov'd Country-men's Defence,</l>
+                     <l>And chac'd the Engliſh Toads and Serpents hence.</l>
+                     <l>Again ſhall <hi>Ireland</hi> her old Name renew;</l>
+                     <l>'Tis now a <hi>Land of Saints</hi> and Heroes too;</l>
+                     <l>Th' <hi>Aſylum</hi> long before deſign'd for thoſe</l>
+                     <l>Sent into Exile by their faithleſs Foes;</l>
+                     <l>That ſafe, that happy Sanctuary, where</l>
+                     <l>By our great <hi>Faith's Defenders</hi> pious Care,</l>
+                     <l>The Church it ſelf can now glad Refuge find,</l>
+                     <l>Leaving her cheated deſperate Foes behind.</l>
+                     <l>
+                        <hi>Caſh</hi> Like <hi>Arethuſas</hi>'s Stream, her Fountain clear</l>
+                     <l>Dives under Earth, and Sea, and riſes here:</l>
+                     <pb n="2" facs="tcp:103279:5"/>
+                     <l>But never ſhall we her fair Spring reſtore,</l>
+                     <l>As pure and limpid as it was before,</l>
+                     <l>Unleſs we hollow the polluted Flood,</l>
+                     <l>And purge out Heretick-Stains with Hereticks Blood.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Prim.</speaker>
+                     <l>The very thought does my chill Age renew,</l>
+                     <l>And almoſt make <hi>Armagh</hi> a Souldier too.</l>
+                     <l>O <hi>Portendown!</hi> that happy Day is paſt;</l>
+                     <l>
+                        <hi>Grief</hi> ſtays too long, and <hi>Pleaſure</hi> runs too faſt:</l>
+                     <l>I ſaw, and 'twas a wiſht, a welcome ſight</l>
+                     <l>As e'er was ſhewn: By Heavens bright burning Light,</l>
+                     <l>I ſaw the wandring Flood new-blacken'd o'er,</l>
+                     <l>And ſhoals of Bodies waſhed down the ſhore,</l>
+                     <l>Whilſt freſh Supplies ſtill o'er the Breach were thrown,</l>
+                     <l>'Till there at laſt was hardly room to drown.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Macar.</speaker>
+                     <l>And thinks your Grace this was a ſight ſo proper,</l>
+                     <l>For one whoſe Character ſhou'd be Compaſſion,</l>
+                     <l>Pity, and Love, all like our mighty Maker?</l>
+                     <l>I, though long ſteel'd in Camps, and drench'd in War,</l>
+                     <l>To Execution us'd, and Blood, and Carnage,</l>
+                     <l>(Fatal Effects of neceſſary Cruelty)</l>
+                     <l>
+                        <hi>I</hi> rather ſhou'd have wiſh'd to have given the Lives</l>
+                     <l>To all thoſe Wretches, though at the expence</l>
+                     <l>Even of my own.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Prim.</speaker>
+                     <l>—Are you a Catholick?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Maccar.</speaker>
+                     <l>Yes, and will die one. —But cou'd <hi>I</hi> believe</l>
+                     <l>That my Religion taught the ſame that you do,</l>
+                     <l>
+                        <hi>I</hi> rather wou'd turn Heretick, Turk, or Pagan,</l>
+                     <l>Than be ſo one hour longer.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Prim.</speaker>
+                     <l>Scarce can the ſtupid Ignorance excuſe you;</l>
+                     <l>A Heretick himſelf could ſay no more.</l>
+                     <l>Hath not the ſacred <hi>Lateran</hi> Council made it</l>
+                     <l>An Article as needful to Salvation,</l>
+                     <l>As any of the <hi>Creed,</hi> That this curſt Fry,</l>
+                     <l>Rebels to <hi>Holy Church,</hi> ſhou'd be deſtroy'd</l>
+                     <l>By Fire and Sword, or any other way,</l>
+                     <l>Where-e'er they'r found, like other Beaſts of Prey?</l>
+                     <pb n="3" facs="tcp:103279:5"/>
+                     <l>While that of <hi>Conſtance</hi> makes this other eaſie,</l>
+                     <l>And bids us keep no Faith with thoſe that have none:</l>
+                     <l>A pious, neceſſary, uſeful, comfortable Doctrine!</l>
+                     <l>You are a Souldier—'Tis a Stratagem:</l>
+                     <l>Thoſe ſtill in War are lawful —And I'll tell you</l>
+                     <l>Once more, If this you know not, Sir, you'r guilty</l>
+                     <l>Of Ignorance inexcuſable—. Why 'tis</l>
+                     <l>The very Cement of the <hi>CA<g ref="char:V">Ʋ</g>SE,</hi> the <hi>Blood,</hi> the <hi>Life</hi>
+                     </l>
+                     <l>Of <hi>Holy Mother:</hi> (Yet you are to learn</l>
+                     <l>Your Catechiſe.) —'Tis what her eldeſt Son</l>
+                     <l>Has practiſed many Years. See how he's bleſt,</l>
+                     <l>How all ſucceeds. and he ſpeaks Fate in <hi>Europe.</hi>
+                     </l>
+                     <l>If this you know, as how can you be ignorant</l>
+                     <l>Of what each Catholick, eſpecially</l>
+                     <l>Each <hi>IRISH</hi>-Man ſucks with his firſt-drawn Milk.</l>
+                     <l>(Whoever here of all your Country-men,</l>
+                     <l>Beſides that falſe Apoſtate Wretch <hi>Clanrickard,</hi>
+                     </l>
+                     <l>Was guilty known, of ſuch an eaſie Meanneſs)</l>
+                     <l>Repent, or elſe expect the <hi>Church</hi>'s CURSE.</l>
+                     <l>The heavy Doom that waits; for by her Laws</l>
+                     <l>Your <hi>ipſo facto</hi> Excommunicate.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>My Lord, 'tis not a time for theſe Diſcourſes:</l>
+                     <l>Though his weak Conſcience cannot yet digeſt</l>
+                     <l>Such manly Food, we know he's firm to th' Cauſe;</l>
+                     <l>Brave! and wou'd freely loſe a Life i'th' Quarrel:</l>
+                     <l>Rather let's <hi>think,</hi> and, with united Councels,</l>
+                     <l>Conſider what we've done, and where we are.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Nug.</speaker>
+                     <l>
+                        <hi>Think?</hi> What have we to think of? Firſt let's act;</l>
+                     <l>'Tis time enough to <hi>think</hi> when that is done:</l>
+                     <l>'Tis a plain <hi>Impoſition</hi> on our Natives.</l>
+                     <l>To fall on ſuch unneceſſary Work:</l>
+                     <l>We have an Hundred Thouſand Men in Arms;</l>
+                     <l>None but the wretched Relies of Rebellion,</l>
+                     <l>That dare withſtand us here: Let's o'er to <hi>England,</hi>
+                     </l>
+                     <l>That golden Land, where Palms and Laurels wait us,</l>
+                     <l>Delicious Murthers, and ſweet Maſſacres:</l>
+                     <pb n="4" facs="tcp:103279:6"/>
+                     <l>
+                        <hi>Hang, Drown, Stab, Burn, B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oil, Eat, Damn</hi> our proud Conquerors.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Neag.</speaker>
+                     <l>That will do well; 'tis excellently motion'd;</l>
+                     <l>What brave <hi>Mileſan</hi> wou'd not ſtake his Soul</l>
+                     <l>On the <hi>Deſign?</hi> But firſt let's clear our own,</l>
+                     <l>Ere we attempt on others Lands. Thoſe Relies</l>
+                     <l>You talk of, are like Vipers Spawn, if not</l>
+                     <l>Cruſht ſpeedily, in time they'll grow too ſturdy,</l>
+                     <l>And ſend their Venome hiſſing o'er the <hi>Iſland:</hi>
+                     </l>
+                     <l>Firſt ſend <hi>fair Words, good Terms, ſweet-honied Proffers,</hi>
+                     </l>
+                     <l>(Which we know how to keep) clear once the <hi>North,</hi>
+                     </l>
+                     <l>
+                        <hi>Derry,</hi> and <hi>Inniskilling,</hi> all's our own:</l>
+                     <l>Give 'em what Articles they pleaſe themſelves,</l>
+                     <l>Promiſes coſt not much; they may believe;</l>
+                     <l>The <hi>Engliſh</hi> all are kind-believing FOOLS,</l>
+                     <l>Or now had been our Maſters: If this takes,</l>
+                     <l>We have our Men, and vain Expence of Blood,</l>
+                     <l>For better Purpoſes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Iriſh Lord.</hi>
+                     </speaker>
+                     <l>Wou'd that were over;</l>
+                     <l>I'd be content, cou'd we ſecure our own;</l>
+                     <l>Nor ever much ambition'd Foreign Conqueſts:</l>
+                     <l>The <hi>Engliſh</hi> ſooner <hi>Cheated</hi> are, than <hi>Beaten;</hi>
+                     </l>
+                     <l>We muſt expect a formidable Army</l>
+                     <l>Shortly in our Bowels: Though their Hands</l>
+                     <l>Are raiſing long, they generally fall heavy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Lord.</hi>
+                     </speaker>
+                     <l>My Lord, <hi>I</hi> muſt entirely join with you;</l>
+                     <l>We owe our <hi>Safety</hi> to their <hi>Eaſineſs:</hi>
+                     </l>
+                     <l>Had they not kindly thought we wou'd come over,</l>
+                     <l>And yield the Sword, entreating they'd accept</l>
+                     <l>That, and our Lives; we ſcarec had now been talking</l>
+                     <l>How we ſhou'd conquer them: And, to ſay truth,</l>
+                     <l>That was a Maſter-piece of <hi>Iriſh</hi> Cunning,</l>
+                     <l>To drill 'em on with Promiſes and Oaths</l>
+                     <l>Of free ſubmiſſion, when they'd pleaſe to take it,</l>
+                     <l>Till we were able to laugh at 'em, and</l>
+                     <l>Deſpiſe their Threatnings. <hi>I</hi> own 'twas juſtly managed,</l>
+                     <pb n="5" facs="tcp:103279:6" rendition="simple:additions"/>
+                     <l>And very pleaſantly was that fine Fool</l>
+                     <l>Entrapt, who promis'd <hi>England</hi> ſuch Succeſs,</l>
+                     <l>Such Mountains of Foreign Hopes from Secret Treaties,</l>
+                     <l>The end too crown'd the Work: When he perceiv'd</l>
+                     <l>We were not quite ſo good to keep our Words</l>
+                     <l>The Generous Fool diſpatch'd himſelf for Shame,</l>
+                     <l>To be out-witted by an <hi>Iriſh</hi> Man:</l>
+                     <l>And heartily I wiſh, as any here,</l>
+                     <l>The Frolick would go round, till we poſſeſs'd</l>
+                     <l>Their Vacant Hives, without the toyl of Firing</l>
+                     <l>The Drones away; (tho' then we loſt the Pleaſure</l>
+                     <l>Of Killing, and the Lechery of Murder;)</l>
+                     <l>But Since they won't go on in a good Work,</l>
+                     <l>We muſt take Care to keep ſecure, by <hi>force,</hi>
+                     </l>
+                     <l>What we by <hi>Art</hi> have won; Firſt, clear thoſe Garriſons;</l>
+                     <l>(Talk'd of, perhaps, more eaſily then done;)</l>
+                     <l>Secure the Country next from Rapparees,</l>
+                     <l>Who elſe will ſoon deſtroy the breed of Cattle,</l>
+                     <l>And bring a Famine, ſpite of all our plenty,</l>
+                     <l>That done, a Magazeen of Arms ſufficient,</l>
+                     <l>Proviſion too, againſt what caſually</l>
+                     <l>May happen, and that certain Deſolation</l>
+                     <l>Armies and War bring with 'em; then we may</l>
+                     <l>Think on the other Projects.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Prim.</speaker>
+                     <l>A Curſe on this Luke-warmneſs, in the Cauſe,</l>
+                     <l>It ruines all; Was't not theſe Noble Lords,</l>
+                     <l>Theſe Valiant Heroes, who (in Council) preſſed</l>
+                     <l>To have the Prince Proclaim'd?</l>
+                  </sp>
+                  <sp>
+                     <speaker>1ſt. <hi>L.</hi>
+                     </speaker>
+                     <l>Yes, and we judged,</l>
+                     <l>We then had Reaſon; had not firſt the King</l>
+                     <l>Both quitted <hi>England,</hi> and obliged his Subjects,</l>
+                     <l>Armies, Commanders, Officers and Garriſons,</l>
+                     <l>To yield to <hi>Orange?</hi> Did not a ſure Friend</l>
+                     <l>(As ſome we ſtill have there) ſend us a Pacquet,</l>
+                     <l>Adviſing this, and his departure following,</l>
+                     <pb n="5" facs="tcp:103279:7"/>
+                     <l>We knew not where? Shou'd all have been expoſed</l>
+                     <l>To a Head-ſtrong, Wild, Ungovernable Rabble?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrc.</speaker>
+                     <l>No more my Lords, the Caſe is alter'd ſince,</l>
+                     <l>And we have Arms from <hi>France,</hi> whoſe generous Prince,</l>
+                     <l>Delight of all Mankind, with pious Care,</l>
+                     <l>Our Royal Refuge has welcom'd there:</l>
+                     <l>Strong Succours thence we wait, nor ſhall we fail,</l>
+                     <l>The Catholick Cauſe, with them, muſt needs prevail;</l>
+                     <l>The while, my Lords, we all muſt reſt content,</l>
+                     <l>The Fate of War there's nothing can prevent;</l>
+                     <l>Diſorders make the Souldiers brave and bold,</l>
+                     <l>You break him if too cloſe the Reins you hold;</l>
+                     <l>Beſides, our Troops on nothing elſe can live;</l>
+                     <l>But what our vanquiſh'd Slaves Eſtates can give;</l>
+                     <l>When they are humbled, and their ſtock brought low;</l>
+                     <l>For theirs, we need not doubt, the firſt will go,</l>
+                     <l>'Twill then, be time, my Lords! to think on you.</l>
+                     <l>Be you, and your Eſtates, our chiefeſt Care,</l>
+                     <l>On pain of Death they ſhall your Fields forbear;</l>
+                     <l>But firſt, the Northern Rebels let's ſubdue,</l>
+                     <l>At <hi>Derry,</hi> and at <hi>Inniskilling</hi> too;</l>
+                     <l>The Firſt your Lot
+<stage>[to <hi>Hamilt.</hi>]</stage> The Second fall to you,
+<stage>[to <hi>Mac.</hi>]</stage>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Hamilt.</speaker>
+                     <l>My Lord I doubt not, ſpeedily to give</l>
+                     <l>A better Account of them, then ere to <hi>England</hi>
+                     </l>
+                     <l>Of my Wiſe Errand hither; nor was ought</l>
+                     <l>Loſt, by my not returning, but my Word,</l>
+                     <l>A few looſe Vows, perhap an Oath or Two,</l>
+                     <l>And Airy Honour pawn'd; let 'em make much on't,</l>
+                     <l>And ſeize thoſe precious Pledges for my ſtay,</l>
+                     <l>While with this Sword, I th'Obligation pay;</l>
+                     <l>And haſten to my welcome Charge, away.</l>
+                  </sp>
+                  <stage>Exit Hamilton.</stage>
+                  <sp>
+                     <speaker>Mac.</speaker>
+                     <l>I cannot promiſe much, our Troops are raw,</l>
+                     <l>Have ſeen no Enemy, if Diſciplin'd</l>
+                     <l>For a few Months, yet grown by their late Freedom</l>
+                     <l>Glaggard and Wild, Unruly, Careleſs, Vain;</l>
+                     <pb n="7" facs="tcp:103279:7"/>
+                     <l>The Enemy Deſperate, Numerous, Firm and Hearty,</l>
+                     <l>But what I can perform, in Act or Council,</l>
+                     <l>Whether by Expedition or Surprize,</l>
+                     <l>If they too heedleſs, as they often are;</l>
+                     <l>Or by fair fighting, if they ſtand the Field;</l>
+                     <l>Or formal Siege, if they ſtill keep the Town,</l>
+                     <l>I will attempt, and do, if Fate play fair,</l>
+                     <l>Or leave my Life behind.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>We know you Sir,</l>
+                     <l>Your Courage and your Conduct, take the beſt</l>
+                     <l>Of all our Troops; proceed, ſucceſs attend you,</l>
+                     <l>While we go order your Diſpatch, and ſend</l>
+                     <l>Once more to th' Rebels, if fair means avail,</l>
+                     <l>And ſave our Troubles, and their own Deſtruction.</l>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>ACT. I. SCENE. II.</head>
+                  <stage>[<hi>Enter</hi> Iriſh Rabble, <hi>Men, Woman and Children; the Men with Swords and Clubs, the Women with Skenes, the Children with wooden Swords and Knives. A</hi> Piper <hi>before 'em (as was their uſual Cuſtom) with a Prey of</hi> Black and ſmall Cattle, <hi>which they had robbed the</hi> Engliſh <hi>of.</hi>)</stage>
+                  <sp>
+                     <speaker>[1ſt <hi>o'th' Rabble.</hi>]</speaker>
+                     <p>Rare times, by Saint <hi>Patrick;</hi> the beſt that <hi>Ire<g ref="char:EOLhyphen"/>land</hi> ever ſaw, by my Soul Joy; why who wou'd be at the Trouble to raiſe and breed Cattle of their own, when the <hi>Heretick Dogs</hi> can do't to our Hands, without any pain?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. —</speaker>
+                     <p>Right Neighbour <hi>Teague;</hi> and beſides they are all our <hi>Te<g ref="char:EOLhyphen"/>nants,</hi> not we <hi>Theirs;</hi> for <hi>I</hi> heard <hi>Father Dominick, our Prieſt,</hi> make a Swear, that this was all our Country, Five Thouſand Years before the <hi>New-Moon</hi> was made, and the <hi>Engliſh</hi> Thieves never came hither to rob us of our own till the next Year after the Flood was over.</p>
+                  </sp>
+                  <pb n="8" facs="tcp:103279:8"/>
+                  <sp>
+                     <speaker>3. —</speaker>
+                     <p>Well, See what 'tis to have Learning; they muſt talk what they will, but if <hi>I</hi> know any thing, there's ne'r a Clergy, in Chriſtendom to compare with the <hi>Iriſh;</hi> only the Truth is, they do lead a ſtray a Cheeſe, or a Flitch of Bacon, now and then; and ſometimes the Bottle of <hi>
+                           <g ref="char:V">Ʋ</g>ſquebagh</hi> ſtraggles after it. But all that's as eaſily forgiven as they do us, ſince they have ſo kindly prov'd the Lawfulneſs and Neceſſity of our plundering the <hi>Engliſh,</hi> their Snacks always reſerved and reaſon good.</p>
+                  </sp>
+                  <sp>
+                     <speaker>4. —</speaker>
+                     <p>But to ſee how ſtubborn and impudent ſome of theſe Pro<g ref="char:EOLhyphen"/>teſtant Devils are; <hi>I</hi> went to one of 'em that had been once my Ma<g ref="char:EOLhyphen"/>ſter, (tho' now the Caſe is alter'd), and bid him give me a Cow; the impudent Paſcal denied it to my Face, which ſo much provok'd me, as well it might, <hi>I</hi> had ſtuck my Skene in his Guts, had not ſome other of his Crew hindred me. who are all ſince fled together, to the Northern Rebels, where <hi>I</hi> hope, ſhortly, to have the hanging of Two or Three Dozen of 'em.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. —</speaker>
+                     <p>They are e'n too kindly uſed, that makes 'em ſo malepert, what would they be Angels? Would they have more than their Lives? Unconſcionable Dogs; their Brains deſerved to be knock'd out if 'twere for no other Reaſon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 —</speaker>
+                     <p>Ay, That's the only way, after all. Ah Neighbours! had you ſeen, but what <hi>I</hi> ha' ſeen; we have made ſome ſport on't for<g ref="char:EOLhyphen"/>merly, but now this Fooliſh pity ſpoils all. If you had but heard how the Hereticks yelp'd, when we burnt a Hundred of them in a Houſe together. Oh! <hi>I</hi> cou'd have humour'd it to the Life then; but now <hi>I</hi> grow hoarſe, and have almoſt forgot it; <hi>I</hi> remember there was one ſprawling Brat, of a Year or Two Old, that the Mother on't, or ſome body, had thruſt out to ſave its Life; but how we all laugh'd when one of our Company ſtuck it a top of his Pike, to ſee the little Baſtard ſprawl about with his Legs and Arms, till he pitch'd it over again into the Fire, and made an end on't.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. —</speaker>
+                     <p>What's that to the Invention of my Old Grand-Mother, reſt her Soul, tho her Body was hang'd for't: My Father had ripp'd up Two or Three fat Perſons Bellies, and the good ſaving Creature, finding they tallowed well, took out their Greaſe, and made Can<g ref="char:EOLhyphen"/>dles of it: But never was a pleaſanter ſight, than to ſee how it dripp'd
+<pb n="9" facs="tcp:103279:8"/>in the Candle-ſtick, as if they had been ſweating at it in their Pul<g ref="char:EOLhyphen"/>pit agen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>5 —</speaker>
+                     <p>That was nothing neither, to what work we made with one of 'em; we ripp'd up his Belly, and tied one end of his ſmall Guts to a Tree, driving him round till he had pull'd 'em all out, and then knock'd him o'th' Head, and with our common Farewel, tho' to good for 'em, ſent his <hi>Soul to the Devil.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>2. —</speaker>
+                     <p>Ha, ha, ha! That was pretty well; but I think our Town was even with you; we had kill'd about Twenty, or ſome ſuch ſmall Buſineſs, of <hi>Engliſh</hi> Whores, and afterwards finding one of their Brats, in a Cradle, bawling for Meat, took it out, and put it to the Breaſt of the dead Jade his Mother, bidding the young Baſtard ſuck if't had any mind to't, and there left it for the Dogs to eat them to<g ref="char:EOLhyphen"/>gether.</p>
+                  </sp>
+                  <sp>
+                     <speaker>4. —</speaker>
+                     <p>All in good time, we may yet ſerve 'em the ſame ſawce. In the mean while, let's be reveng'd on any thing that belongs to their Country. Their Lubberly Breed of Black-Cattle here, what ſhall we do with 'em all? We'll find ſome way or other to torment, as well as get rid of 'em, and they'll have little Cauſe to complain, that are uſed as well as their Maſters.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. —</speaker>
+                     <p>Let's ſerve 'em as we did the Fellow, I told you of, Tie 'em to a Stake, and cut off pieces of their Fleſh alive; by this we ſhall have the double Pleaſure of tormenting 'em, and ſeeing how finely they'll dance and roar to make us Muſick.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. —</speaker>
+                     <p>By Saint <hi>Pautrick,</hi> but that be a very good way, Joy! Agreed; all Hands to work here. What, Do theſe hang an Arſe, and pretend to be Refractory, as well as their Maſters? There, — this is faſt enough: Come, — Firſt let's have a Song, and then fall on, at the Word of Gommand.</p>
+                  </sp>
+                  <stage>[They Sing an <hi>Iriſh</hi> Song, Dancing round a fat <hi>Engliſh</hi> Ox, ti<g ref="char:EOLhyphen"/>ed to a Stake; and as ſoon as that was over, fall all together upon it, cutting out pieces of them alive, and broiling it upon the Coals. In the mean while, a ſmall Party of <hi>Engliſh,</hi> ſurprize, and fall upon 'em; on which, all the Rabble ſet up the <hi>Iriſh</hi> yell, and run away without ſtriking a ſtroke.]</stage>
+                  <pb n="10" facs="tcp:103279:9"/>
+                  <sp>
+                     <speaker>1. <hi>Engliſhman.</hi>
+                     </speaker>
+                     <l>A Soul-leſs heap of Animals! that Nobler Beaſt</l>
+                     <l>They here torment, has infinite more Valour,</l>
+                     <l>Than all their Raſcal Nation, piled together.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. —</speaker>
+                     <l>Are theſe the Champions, theſe the Stil-Cow Heroes,</l>
+                     <l>Muſt Conquer <hi>England?</hi> Sure 'twould be a Problem</l>
+                     <l>Well worth reſolving; How many of 'em</l>
+                     <l>Muſt go to killing one of us: I ſhou'd</l>
+                     <l>Be flatter'd to eſteem my Self immortal,</l>
+                     <l>Had I a Leaſe of Life, till they cou'd take it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>3. —</speaker>
+                     <l>Slaves! long-worn Slaves, and Ten times baffled Rebels,</l>
+                     <l>Were one poor <hi>Engliſh-man</hi> (deſign'd by Fate,</l>
+                     <l>By Courage, Earth, and Heaven it ſelf their Maſter)</l>
+                     <l>Tied to a Poſt, as this poor Beaſt before us,</l>
+                     <l>Among a Thouſand of thoſe Cut-Throat Monſters</l>
+                     <l>Were but his Face uncover'd, cou'd they ſee him</l>
+                     <l>See but their Maſter, ſure they ſcarce dar'd ſtab him.</l>
+                     <l>I queſtion'd if the Cowards would not tremble,</l>
+                     <l>Until their bloody Baggonets forſook</l>
+                     <l>Their Guilty Hands.</l>
+                  </sp>
+                  <sp>
+                     <speaker>4. —</speaker>
+                     <l>No Sir, you are miſtaken,</l>
+                     <l>Then is their very time; or then or never;</l>
+                     <l>Unleſs, when loaded with baſe Multitude;</l>
+                     <l>And rather preſs'd to Death, than fairly kill'd.</l>
+                     <l>They can't ſo much as Murder one of ours.</l>
+                     <l>O they are bold as Lions, rather Wolves,</l>
+                     <l>When they on helpleſs <hi>Women</hi> light, or <hi>Children,</hi>
+                     </l>
+                     <l>Or Men unarm'd, helpleſs, and weak, as they.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. —</speaker>
+                     <l>But leſt we meet, the Fate which oft has happen'd</l>
+                     <l>To our brave Countrymen, and fall a Prey,</l>
+                     <l>Born down and trodden with inglorious Numbers;</l>
+                     <l>Let's cut our way to <hi>Derry,</hi> for this part</l>
+                     <l>O'th' Country's all their own; but there 'tis ſaid</l>
+                     <l>They ſtem the Fide, already ſhut the Gate</l>
+                     <l>Againſt their Troops.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. —</speaker>
+                     <l>Fair Fortune ſtill attend 'em,</l>
+                     <l>And Crown their Courage with well purchaſed Lawrels,</l>
+                     <pb n="11" facs="tcp:103279:9"/>
+                     <l>Whilſt to their Succour, and our own we flie,</l>
+                     <l>And bravely conquer, or as bravely die.</l>
+                  </sp>
+                  <stage>[Exeunt Omnes.]</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>ACT I. SCENE III.</head>
+                  <stage>
+                     <hi>Enter</hi> Tyrconnel, <hi>the</hi> Primate, Caſhel, Nugent, Neagle.</stage>
+                  <sp>
+                     <speaker>Neag.</speaker>
+                     <l>How tame the harmleſs Sheep convey'd himſelf</l>
+                     <l>To a ſafe Priſon! O 'twas a wiſe Meſſage,</l>
+                     <l>To ask leave to beſtow ſo large a Kingdom,</l>
+                     <l>Almoſt for leſs than asking. Thoughtleſs <hi>Mountjoy,</hi>
+                     </l>
+                     <l>Whoſe Embaſſy, no doubt, is kindly taken;</l>
+                     <l>Thy ſelf for more Magnificence and Grandeur,</l>
+                     <l>In higheſt State art lodg'd at the <hi>Baſtile.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrc.</speaker>
+                     <l>Chiefly to you we owe that piece of Policy,</l>
+                     <l>Nor ſhall it fail Reward: He need not fear</l>
+                     <l>A kind Reception, when ſo true a Friend</l>
+                     <l>As <hi>Rice</hi> goes with him; but we muſt have News,</l>
+                     <l>The Wind ſtands fair from <hi>Breſt,</hi> and they muſt needs</l>
+                     <l>Be long ere this arriv'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Caſh.</speaker>
+                     <l>Sure the very Thoughts of our admired, adored, true Cath. K.</l>
+                     <l>Thus honouring this lov'd Country, with his Preſence,</l>
+                     <l>Will make us all invincible.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Prim.</speaker>
+                     <l>Then ſhall the Rebels know what 'tis to affront him;</l>
+                     <l>'Tis their turn now. The <hi>Engliſh</hi> are the Rebels,</l>
+                     <l>And we their Rightful, Loyal, conquering Maſters.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrc.</speaker>
+                     <l>And have a Title that's uncontroverted,</l>
+                     <l>A Hundred Thouſand Men beſides the King;</l>
+                     <l>And who dares call him Rebel that has either</l>
+                     <l>Of theſe Two Glorious Helpers to his Cauſe?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Caſh.</speaker>
+                     <l>The very Name of one ſo much belov'd,</l>
+                     <l>So long deſired by all our Country-men,</l>
+                     <pb n="12" facs="tcp:103279:10"/>
+                     <l>And juſtly, for as much he honours them</l>
+                     <l>With his kind Thoughts,—his ſingle Name wou'd do,</l>
+                     <l>Without an Army, and inſpire new Courage</l>
+                     <l>If any wanted it—'twas he alone,</l>
+                     <l>Who thro' the laſt falſe dangerous Trimming Reign,</l>
+                     <l>Screen'd off the fury of the Rebels from us;</l>
+                     <l>Got that proud Heretick, imperious <hi>Ormond,</hi>
+                     </l>
+                     <l>Oftner than once remov'd. 'Twas he who found</l>
+                     <l>The Treacherous <hi>Eſſex,</hi> who buoyed up the <hi>Engliſh,</hi>
+                     </l>
+                     <l>And their decaying Intereſts againſt us.</l>
+                     <l>He found him out at laſt, ſpite of his Policy,</l>
+                     <l>And did reward him in due time and place.</l>
+                     <l>—But when kind Fate, or of her own accord;</l>
+                     <l>Or jogg'd by ſome Officious Catholick Hand,</l>
+                     <l>Broke <hi>Charles</hi> his Linſy-Woolſey Line of Life,</l>
+                     <l>When our bright Star aſcended his Meridian,</l>
+                     <l>And ſhot his Beams from <hi>London</hi> to our Iſle,</l>
+                     <l>What Loyal Face was ſeen without a ſmile?</l>
+                     <l>Scarce will our Joy, or Juſter, be or more,</l>
+                     <l>When with his Royal Feet, he treads our Shore.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrc.</speaker>
+                     <l>Be it our Care, the while t' amuſe the People,</l>
+                     <l>Perſuade 'em he's arriv'd already her;</l>
+                     <l>This will affright the <hi>Engliſh,</hi> if they'd ſtir,</l>
+                     <l>And raiſe the Courage of our Country-men.</l>
+                     <l>Were we not Politicians, things exempt</l>
+                     <l>From the dull common road of Juſt and Right,</l>
+                     <l>In which the World drudge on; yet our Religion</l>
+                     <l>Permits, nay, does encourage ſuch a Lye</l>
+                     <l>As ſerves the Church, and that no doubt's wrapt up</l>
+                     <l>Together, with our Cauſe, and ſtands or falls,</l>
+                     <l>As we do here.</l>
+                  </sp>
+                  <stage>
+                     <hi>[Enter Servants.]</hi> A Courier wants Admittance to your Excellency.</stage>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>Go fetch him in.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Courier.</speaker>
+                     <l>Theſe from <hi>Verſailles,</hi> my Lord, ſome few days ſince.</l>
+                  </sp>
+                  <stage>
+                     <hi>[Delivers Letters.]</hi> From the King's Royal Hand I did receive 'em.</stage>
+                  <pb n="13" facs="tcp:103279:10"/>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>Say, How was his Reception and Attendance</l>
+                     <l>In that great Court?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Cour.</speaker>
+                     <l>Magnificent and Royal;</l>
+                     <l>Shou'd he return a <hi>Conqueror</hi> to <hi>London,</hi>
+                     </l>
+                     <l>Scarce cou'd the Pomp be greater. Guards were ſent</l>
+                     <l>To attend him on the Road; a fair Retinue</l>
+                     <l>Of young Nobility ſoon found to wait him:</l>
+                     <l>And when he came, we ſcarce knew which was King.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Caſh.</speaker>
+                     <l>were any Preparations going forward</l>
+                     <l>For his appearing here?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Cour.</speaker>
+                     <l>All that was poſſible;</l>
+                     <l>And the Great <hi>LEWIS</hi> ſwore to all his Court,</l>
+                     <l>If any wou'd almoſt <hi>Oblige</hi> their Prince,</l>
+                     <l>'Twou'd be by waiting on the <hi>ROYAL EXILE,</hi>
+                     </l>
+                     <l>Vent'ring their Lives on one joint Stock with HIS.</l>
+                     <l>A Squadron was equipp'd at <hi>Breſt,</hi> as <hi>I</hi>
+                     </l>
+                     <l>Came through the Harbour, all prepared, and ready</l>
+                     <l>To attend him thither.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>His Letter ſpeaks as much;
+<stage>
+                           <hi>Having read the Pacqu<gap reason="illegible" resp="#MURP" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>
+                           </hi>
+                        </stage>
+                     </l>
+                     <l>Ere this time he's embarked, the Wind ſtands fair;</l>
+                     <l>And large Supplies of Money, and of Men,</l>
+                     <l>Will with him ſoon be here, (if it were poſſible)</l>
+                     <l>To inſpire more Life into our vigorous Cauſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Nug.</speaker>
+                     <l>And ſhall we be too merciful and tender,</l>
+                     <l>And ruine all agen, as once before?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Prim.</speaker>
+                     <l>Then we deſerve to fall unpitied too,</l>
+                     <l>Pointed and laugh'd by each zealous Catholick,</l>
+                     <l>The Scorn of every Heretick in <hi>Europe:</hi>
+                     </l>
+                     <l>No; had good Counſel been but follow'd, when</l>
+                     <l>We laſt appeared for the ſame noble Cauſe.</l>
+                     <l>Had thoſe who ſafely then adviſed <hi>Kill All.</hi>
+                     </l>
+                     <l>Been hearken'd to, we'd long ere this been Maſters,</l>
+                     <l>And <hi>Ireland</hi> full as Catholick as <hi>Spain.</hi>
+                     </l>
+                     <l>But O this eaſie, fooliſh, cruel Pity!</l>
+                     <l>This Ague of Mankind, far worſe than Fear!</l>
+                     <l>This Palſie of the Soul, which makes it tremble,</l>
+                     <pb n="14" facs="tcp:103279:11"/>
+                     <l>When ought that's Daring calls ir out to act!</l>
+                     <l>Others there were, forſooth, for gentler Methods</l>
+                     <l>For <hi>Speeding;</hi> none but ſuch as die reſiſt:</l>
+                     <l>And thus the Matter hung, 'till 'twas reſolv'd</l>
+                     <l>All ſhou'd be left at liberty; Or kill,</l>
+                     <l>Or ſave alive, as Bravery or Weakneſs</l>
+                     <l>Shou'd prompt 'em; and we ſince have felt the Event;</l>
+                     <l>We did <hi>Our Buſineſs</hi> by not doing <hi>Theirs:</hi>
+                     </l>
+                     <l>The ſafer wiſer, much more Catholick Way,</l>
+                     <l>Had been on higheſt pain of <hi>Church</hi>'s <hi>Thunder,</hi>
+                     </l>
+                     <l>Incurring greater Excommunication</l>
+                     <l>As after; though too late we did at <hi>James-Town,</hi>
+                     </l>
+                     <l>And ſoon blew Mighty <hi>Ormond</hi> from the Kingdom;</l>
+                     <l>Nor valu'd his Commiſſion from his Maſter,</l>
+                     <l>Since both were Hereticks: On all the Pains</l>
+                     <l>Of this and t'other World, (for both do well together)</l>
+                     <l>To have forbid all Quarter; Children, Women,</l>
+                     <l>And all their curſed Brood one Sacrifice.</l>
+                     <l>We now have one Throw more; if that we loſe,</l>
+                     <l>Farewel for ever.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Neag.</speaker>
+                     <l>Stay for the Bear's Skin;</l>
+                     <l>Secure the <hi>Dam,</hi> or we ne'er get the <hi>Cubs:</hi>
+                     </l>
+                     <l>
+                        <hi>Derry</hi> and <hi>Inniskilling</hi> once our own,</l>
+                     <l>All is ſo; then we may have all our Wiſhes.</l>
+                     <l>
+                        <stage>(Enter Courier.)</stage> Here comes a Face of News; let's have it ſpeedily.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Cour.</speaker>
+                     <l>The King is ſafely landed at <hi>Kingſale,</hi>
+                     </l>
+                     <l>And comes directly hither: All the Country</l>
+                     <l>Roll after him: We ne'er cou'd want Arms,</l>
+                     <l>Had we none Liſted.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>Ring the Bells; let Bonfires,</l>
+                     <l>Illuminations, all the Expreſſions poſſible</l>
+                     <l>Of Joy be made; the Conduit fill with Claret,</l>
+                     <l>(Another Liquor, though of the ſame Colour</l>
+                     <l>Much nobler were) Draw up the the Guards in readineſs;</l>
+                     <l>Let th' Aldermen be ready in their Robes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Cour.</speaker>
+                     <l>'Tis done already; all is freely done,</l>
+                     <pb n="15" facs="tcp:103279:11"/>
+                     <l>And more, as I came by and told the News:</l>
+                     <l>For very Joy, the <hi>Engliſh Dogs</hi> are plunder'd</l>
+                     <l>Of all they have; their Houſes Bonfires made;</l>
+                     <l>Well if they 'ſcape Themſelves.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Prim.</speaker>
+                     <l>'Tis rarely well—O this dear pious Rabble!</l>
+                     <l>Honeſt plain-hearted People! How I love 'em!</l>
+                     <l>My very Soul ſeems of a piece with theirs:</l>
+                     <l>Here's no Diſſimulation; that I hate;</l>
+                     <l>No mincing o'er the Buſineſs; but plain-dealing,</l>
+                     <l>Without the curſt Diſguiſe of <hi>Policy,</hi>
+                     </l>
+                     <l>The odious luke-warm Temper dreſſes in.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Cour.</speaker>
+                     <l>As he in higheſt Pomp paſt through <hi>Killkenny,</hi>
+                     </l>
+                     <l>The Elegant <hi>Recorder</hi> made a Speech,</l>
+                     <l>Which <hi>Tully</hi> could not mend; ſcarce equal it:</l>
+                     <l>I have a Copy here.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Caſh.</speaker>
+                     <l>Let's ſee it immediately.</l>
+                  </sp>
+                  <stage>
+                     <hi>Caſhel</hi> Reads.</stage>
+                  <floatingText xml:lang="eng" type="speech">
+                     <body>
+                        <head>May it pleaſe Your moſt ſacred Majeſty,</head>
+                        <p>
+                           <q rend="margQuotes">If ever Rain was welcome to the thirſty Earth, the Sun to fro<g ref="char:EOLhyphen"/>zen <hi>Greenland,</hi> or Bonny-clabber to the gaping Jaws of an hungry <hi>Iriſh</hi>-man, your Majeſty is welcome, trebly welcome, to this your LOYAL Kingdom. 'Twould be time vainly ſpent, to inform a Perſon ſo well read, ſo deeply skill'd in Books and Hiſtory, as your Majeſty, how many thouſand thouſand Years your Majeſty's Royal Anceſtors have Sway'd the Scepter of this <hi>Bleſſed Iſland.</hi> In the thirty three thouſandth Year, it was preciſely of <hi>Plato</hi>'s great Circle, when your Progenitors firſt landed here, as we find atte<g ref="char:EOLhyphen"/>ſted in the moſt Authentick Chronicles of this our ancient Nation: Nor was it many Thouſands after, ere we made a Deſcent into <hi>Scotland,</hi> routed the heretical Kirk there, planted by <hi>Cain</hi>'s great Grandſon, and eſtabliſh'd the primitive Catholick Religion, which has remain'd unto this day, among the civil <hi>Highlanders</hi> there, as
+<pb n="16" facs="tcp:103279:12"/>well as in this your no leſs Accompliſhed Kingdom. We muſt take leave to proteſt, We can hardly be ſorry that the rebellious Here<g ref="char:EOLhyphen"/>ticks of your Neighbour-Nation, have given us ſo ſplendid an oc<g ref="char:EOLhyphen"/>caſion of letting your Majeſty ſee our Loyalty, and they feel our our Valour. Now is the time, or very near is it approaching, when your rebellious <hi>Exeter,</hi> your fanatical <hi>Briſtol,</hi> your treache<g ref="char:EOLhyphen"/>rous <hi>York,</hi> and your ungrateful <hi>London,</hi> and all the other little Hamlets there, ſhall fly before the conquering Arms of your Loyal <hi>Dublin,</hi> and ever-renowned <hi>Kilkenny,</hi> when in the midſt of the loud Acclamations of the heroical <hi>Iriſh,</hi> and Curſes of your grovling Rebels, we re-ſeat you in the ancient <hi>Throne,</hi> with as much Glory as ever you left it.</q>
+                        </p>
+                     </body>
+                  </floatingText>
+                  <stage>Dixi.</stage>
+                  <sp>
+                     <speaker>Prim.</speaker>
+                     <l>Who now dares ſay our Country-men are Blockheads?</l>
+                     <l>Here is a Speech almoſt worth Paradiſe.</l>
+                     <stage>
+                        <hi>Turning to</hi> Nugent.</stage>
+                     <l>Scace that, my Lord, you ſpake at Council-<hi>Table,</hi>
+                     </l>
+                     <l>When one of our Embaſſadors at <hi>London,</hi>
+                     </l>
+                     <l>So highly admired, that as <hi>I</hi> oft have heard,</l>
+                     <l>The very Boys, though Spawn of Hereticks,</l>
+                     <l>Ran by your Coach, and clapt you as you went;</l>
+                     <l>Scarce that cou'd this exceed.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Nugent.</speaker>
+                     <l>My Lord <hi>I</hi> own it:</l>
+                     <l>And more, he has himſelf out-done, as well</l>
+                     <l>As we; and were it poſſible, done right</l>
+                     <l>Unto the great Occaſion.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>We've now to time to ſpend in ſuch Diſcourſes;</l>
+                     <l>The King himſelf in a few hours ſees <hi>Dublin:</hi>
+                     </l>
+                     <l>Each moment <hi>I</hi> expect a Poſt from the North;</l>
+                     <l>And cou'd we but preſent him with the News,</l>
+                     <l>As <hi>I</hi> much hope, that thoſe two ſtubborn <hi>Towns,</hi>
+                     </l>
+                     <l>Are in our hands, 'twou'd be a grateful Welcome.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Nug.</speaker>
+                     <l>More grateful News that Meſſenger would tell,</l>
+                     <l>Who brought Advice,</l>
+                     <l>That they and all within 'em ſunk to Hell.</l>
+                  </sp>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <div n="1" type="scene">
+                  <pb facs="tcp:103279:12" rendition="simple:additions"/>
+                  <head>ACT II. SCENE I. <hi>INNISKILLING.</hi>
+                  </head>
+                  <stage>
+                     <hi>Enter the Governour, two Collonels, Captains,</hi> &amp;c.</stage>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>NOw for our Honour, Country, and our Lives,</l>
+                     <l>And more than all, the Proteſtant Religion.</l>
+                     <l>All beckon out the brave — this World and t'other,</l>
+                     <l>Courage and Nature, all that's dear and ſacred,</l>
+                     <l>Both warrant and oblige Reſiſtance here.</l>
+                     <l>Be Slaves to th' <hi>Iriſh,</hi> ſuch as have been ours,</l>
+                     <l>Almoſt beyond the reach of Chronicle;</l>
+                     <l>So long 'till 'tis at laſt as much their Nature,</l>
+                     <l>As Falſhood, Cowardice and Cruelty!</l>
+                     <l>So long, they <hi>dare</hi> not ſure be otherwiſe;</l>
+                     <l>And 'twas indeed their choice, their backs were made for't,</l>
+                     <l>Their Souls juſt of a <hi>ſize</hi> and <hi>bore</hi> that ſpoke 'em</l>
+                     <l>What they have ſpoke themſelves — yet when we found 'em,</l>
+                     <l>(Call'd over by themſelves under our <hi>Henry</hi>)</l>
+                     <l>Bruitiſhly baſe as Nature made or Hell</l>
+                     <l>Reform'd 'em, ſunk in ſins too black to name,</l>
+                     <l>Murders as common as Adulteries,</l>
+                     <l>Inceſts or Rapes — no ſence of juſt or right,</l>
+                     <l>No Law, no Faith, no Truth, no Manners left.</l>
+                     <l>When thus we found 'em, only at firſt content</l>
+                     <l>With ſome few Caſtles there, we thoſe reliev'd,</l>
+                     <l>Who begg'd our aid, and peaceably ſtill liv'd,</l>
+                     <l>'Till what ſo fair we bought they'd have retain:</l>
+                     <l>With Treachery, Perj<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ry, Blood-ſhed, they began,</l>
+                     <l>Nor have degenerated — when our own Defence</l>
+                     <l>Forc'd us to Arms, when Strong bow, <hi>Courcy, Lacy,</hi>
+                     </l>
+                     <l>(Only two mighty Names) i'th' Chance of War,</l>
+                     <l>Obtain'd whole Counties from 'em, or indeed</l>
+                     <pb facs="tcp:103279:13" rendition="simple:additions"/>
+                     <l>From Wolves and Bogs, and Faſtneſſes and Woods;</l>
+                     <l>And our great <hi>Henry</hi> with a Royal Army</l>
+                     <l>The Conqueſt perfected — we found 'em ſavage,</l>
+                     <l>But left 'em Men — or wou'd at leaſt have done it,</l>
+                     <l>Had they conſented, as they feign'd to do.</l>
+                     <l>They flunk and ran, and truckled to their Conqu'ror,</l>
+                     <l>They kneel'd, and crouch'd, and fawn'd, and lickt his Feet.</l>
+                     <l>He gave 'em Life, and more, he gave 'em Laws,</l>
+                     <l>Redeem'd 'em from themſelves and one another,</l>
+                     <l>Whoſe only rule before was Brutal Force,</l>
+                     <l>And when they all had ſworn perpetual Fealty,</l>
+                     <l>Reſtor'd their Countrey better than before.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Coll.</hi>
+                     </speaker>
+                     <l>Oft have we read the Story, oft have wonder'd</l>
+                     <l>At this repeated Treachery and Blood;</l>
+                     <l>Until ſo oft repeated, 'twas no wonder</l>
+                     <l>They never injur'd us, but when we truſted</l>
+                     <l>To their good Nature, Vows, or ſlight-ſpun Oaths,</l>
+                     <l>Snapt eaſily as weak <hi>Arachne</hi>'s thred.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Coll.</hi>
+                     </speaker>
+                     <l>'Tis hard that theſe at laſt muſt be our Maſters —</l>
+                     <l>Nor ſhall they be, while we have Hands or Swords,</l>
+                     <l>Nay, Teeth or Nails — (weapons to fight with Beaſts)</l>
+                     <l>O 'tis tranſporting Pleaſure thus to dye,</l>
+                     <l>Rather than live Slaves to the inſulting <hi>Iriſh.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>Live Slaves to th' <hi>Iriſh!</hi> if ſome Angel bid us,</l>
+                     <l>I ſhou'd make bold to queſtion his Commiſſion;</l>
+                     <l>Whom by ſo many hundred Skirmiſhes,</l>
+                     <l>So many Battels and almoſt new Conqueſts,</l>
+                     <l>After their vain, their fruitleſs kind Rebellions,</l>
+                     <l>By which their Title they ſo juſtly loſt</l>
+                     <l>To what remain'd— whom we ſo oft have broke,</l>
+                     <l>And trod their ſtubborn necks ſo oft in duſt</l>
+                     <l>At vaſt expence of Engliſh Coin and Blood,</l>
+                     <l>Infinitely more than e're the Iſland's worth,</l>
+                     <l>— Yet ſtill our fatal Goodneſs ruin'd all,</l>
+                     <l>Forgiving faſter than they could offend,</l>
+                     <l>'Till now we feel our Kindneſs and their Gratitude,</l>
+                     <l>Almoſt too late —</l>
+                  </sp>
+                  <pb facs="tcp:103279:13" rendition="simple:additions"/>
+                  <sp>
+                     <speaker>1 <hi>Coll.</hi>
+                     </speaker>
+                     <l>And yet 'tis not ſo ſtrange for Brutes to act</l>
+                     <l>As Nature prompts 'em, bite, and ſnarl, and ſtruggle,</l>
+                     <l>And gnaw their Chain — but that a <hi>humane Creature,</hi>
+                     </l>
+                     <l>A <hi>Man</hi> ſhould Brutifie ſo much,</l>
+                     <l>To learn their Manners, eat and drink like they,</l>
+                     <l>And yell, and rove, and ſport, nay couple with 'em,</l>
+                     <l>Till they deſcend, and creep in the ſame manner;</l>
+                     <l>'Tis ſtrange indeed — Yet thus and worſe do thoſe</l>
+                     <l>Who have ſo long bin converſant among 'em,</l>
+                     <l>'Till what by Meetings, Intermarriages</l>
+                     <l>And Goſſippings, they grow as errand <hi>Iriſh,</hi>
+                     </l>
+                     <l>Stark bruitiſh, mad, wild things as ever howl'd</l>
+                     <l>O're a dead Carkaſs — For the Wolves and they</l>
+                     <l>With the ſame Order, ſelf-ſame Ceremony</l>
+                     <l>And Note, and Tune, over the Dead lament.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>What Death, what Puniſhment is equal to</l>
+                     <l>This Sin, this Crime, this worſe than beſtiality?</l>
+                     <l>— But 'tis too ſoon or late for ſuch a Queſtion,</l>
+                     <l>This one effort they make, and have puſht home,</l>
+                     <l>To clear the land of their not wiſh'd Inſtructors,</l>
+                     <l>And be as barbarous as they were before.</l>
+                     <l>If this they gain not, they are loſt for ever,</l>
+                     <l>If this we gain, henceforth 'tis ours for ever.</l>
+                     <l>'Tis true, there's little left, but that's worth keeping.</l>
+                     <l>
+                        <hi>England</hi> is ſtill our own, and that brave Prince</l>
+                     <l>Who holds the Crown with ſtrong and rightful hand,</l>
+                     <l>Will not forſake our Intereſt and his own.</l>
+                     <l>Then happy they who bravely ſtem the Wave,</l>
+                     <l>'Till he holds out his Hand our ſinking Bark to ſave.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Coll.</hi>
+                     </speaker>
+                     <l>We ſhall have Storms — the Sea works hard and loud,</l>
+                     <l>The gathering Floods look big, and ſcowl along</l>
+                     <l>Rolling far off — from all hands we've advice</l>
+                     <l>
+                        <hi>Macarty</hi> with the Flower of all their Forces</l>
+                     <l>Approaches hither, and has vow'd to lay</l>
+                     <l>His Bones here, or ſubdue us.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>That may be —</l>
+                     <l>For he has Honour, and 'tis not unlikely,</l>
+                     <pb facs="tcp:103279:14" rendition="simple:additions"/>
+                     <l>He will do one or t'other — which o'th two</l>
+                     <l>Lies yet in Fates dark womb — Do Heaven its pleaſure;</l>
+                     <l>Let's act like Men, and either live or dye ſo.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Coll.</hi>
+                     </speaker>
+                     <l>They ſay indeed that Gentleman you named</l>
+                     <l>Is a meer Prodigy of an <hi>Iriſh</hi> man,</l>
+                     <l>A ſtranger thing than Toad or Serpent were,</l>
+                     <l>That he's both brave and honeſt in deſpite</l>
+                     <l>Of his curſt Country, and as curſt Religion.</l>
+                     <l>And his good natural temper has workt out</l>
+                     <l>The Venom of 'em both — In brief he wants</l>
+                     <l>Only a better Cauſe and better Maſter:</l>
+                     <l>Grant him but that and better Souldiers too,</l>
+                     <l>I'd not deſire a braver Enemy.</l>
+                  </sp>
+                  <sp>
+                     <l>
+                        <hi>Captain.</hi> What e're he is, you'll have him quickly here,</l>
+                     <l>As o're the Neighbouring Hills I ſcowr'd this Morn,</l>
+                     <l>We ſaw ſome Troops, which ſure cou'd be no other</l>
+                     <l>Than advanc'd Guards to his Army.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>When he pleaſe —</l>
+                     <l>We wou'd not willingly be unprepared</l>
+                     <l>Of kind reception for ſo great a Stranger.</l>
+                     <l>— Go draw your Forces up under the Walls,</l>
+                     <l>We'll meet, not wait 'em — Captain! be't your care</l>
+                     <l>With a ſmart flying Party to diſcover</l>
+                     <l>Once more what Face they bear, and of what number;</l>
+                     <l>(Thô that's the leaſt, we'll fight 'em, thô a Million)</l>
+                     <l>Beware of Ambuſhes, the Graves o'th' <hi>Engliſh,</hi>
+                     </l>
+                     <l>Which there have bury'd ten times more than e're</l>
+                     <l>They in fair Battle loſt. — Each Man to his Charge.</l>
+                  </sp>
+                  <stage>Exeunt Omnes</stage>
+               </div>
+               <div n="2" type="scene">
+                  <pb facs="tcp:103279:14" rendition="simple:additions"/>
+                  <head>ACT II. SCENE II. <hi>MACARTY</hi>'s <hi>Camp.</hi>
+                  </head>
+                  <stage>
+                     <hi>Enter</hi> Macarty, <hi>Officers, Souldiers, — Exerciſing.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>ARe theſe the Men deſign'd to conquer Kingdoms?</l>
+                     <l>The miſerable Props of bleeding <hi>Ireland:</hi>
+                     </l>
+                     <l>Simplicity and Cowardice mixt in</l>
+                     <l>Such juſt proportion, none knows which ſurpaſſes.</l>
+                     <l>Why muſt I blame my Countrey-men, yet why</l>
+                     <l>Do they deſerve 't? — Were any Cauſe beſides</l>
+                     <l>My King's concern'd, I'd never truſt my ſelf</l>
+                     <l>At the Head of 'em — Theſe the beſt, cull'd Men!</l>
+                     <l>Sure they ne're handled Muſquet, Pike or Sword</l>
+                     <l>Before this Expedition — Let's however</l>
+                     <l>See what we muſt expect — Serjeant, draw out</l>
+                     <l>A File or two, and exerciſe 'em here.</l>
+                     <stage>The Officer draws 'em out, and after the other uſu<g ref="char:EOLhyphen"/>al words of Command, bids 'em</stage>
+                     <l>Face to the Right!</l>
+                  </sp>
+                  <stage>They all fall into Confuſion, ſome facing one way, ſome t'other.</stage>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>O ſtupid, worſe than Beaſts — I'll teach my Horſe</l>
+                     <l>What is too high for them!</l>
+                     <stage>Officer ſets 'em in order agen, and then Commands.</stage>
+                     <l>To the left!</l>
+                     <stage>They fall into the ſame Confuſion they were in before.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>I never knew 'em conſtant but in Miſchief,</l>
+                     <l>And there they never fail —</l>
+                     <stage>Once more they are reduced, and the Word given.</stage>
+                     <pb facs="tcp:103279:15" rendition="simple:additions"/>
+                     <l>To the left about!</l>
+                     <stage>They all throw down their Arms and run quite away.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>There only did they not at all deceive</l>
+                     <l>My Expectations—Shall I rave or pity 'em?</l>
+                     <l>Are theſe fit men to face well-order'd Troops,</l>
+                     <l>Fleſht with Succeſs and a long Train of Victories?</l>
+                     <l>Well Gentlemen,—We muſt be Sacrific'd,</l>
+                     <l>And that's the worſt—We die for a good Maſter,</l>
+                     <l>For ſuch we ever ought to think our King;</l>
+                     <l>But yet I can't without regret reſign</l>
+                     <l>A Life which might with yours have done ſome Service,</l>
+                     <l>If not Encumber'd with a uſeleſs Rabble</l>
+                     <l>Miſcall'd an Army.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Officer.</hi>
+                     </speaker>
+                     <l>Twas perhaps chance,</l>
+                     <l>Thoſe Raw, Rude-Fellows lately were drawn out,</l>
+                     <l>The others ſure are better, — 'Tis impoſſible</l>
+                     <l>They ſhou'd be all ſo.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>One and all I fear,</l>
+                     <l>However, order forth another Party,</l>
+                     <l>And ſee what they'll do.</l>
+                  </sp>
+                  <stage>The Officer draws out others —Gives the words — They do all well enough till he bids 'em Fire, — one half never does it at all, the other one after another, and moſt of them wink, and ſhoot juſt in one anothers Faces, — at which concluding themſelves kill'd, one part drops down, and t'other runs away.</stage>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>The very Emblem of a Battle this!</l>
+                     <l>And this I expect — they n'ere ſhall cheat me more.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Officer.</hi>
+                     </speaker>
+                     <l>Tho' they are ſomewhat inexpert, my Lord,</l>
+                     <l>They may be brave and faithfull when they meet</l>
+                     <l>The Enemy — whom yet they never ſaw.</l>
+                     <l>There ſtands a little Caſtle not far off,</l>
+                     <l>Man'd by ſome fifty Foot — 'tis Old and Weak,</l>
+                     <l>They've little Ammunition — If on this</l>
+                     <l>We fleſht 'em, t'wou'd do well, they'd rowze their Courage,</l>
+                     <l>Which yet has drowſie lain for want of Action.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>Tho' but too eaſily I gueſs th' Event,</l>
+                     <l>I'll not forebode — and ſeeing fight we muſt,</l>
+                     <pb facs="tcp:103279:15" rendition="simple:additions"/>
+                     <l>As good begin — Detach 500 Foot,</l>
+                     <l>A Company of Granadeers may joyn 'em;</l>
+                     <l>Sure thoſe will carry't, or the Army won't.</l>
+                     <l>Mean time the reſt to Council to reſolve,</l>
+                     <l>How we muſt manage this unlucky buſineſs,</l>
+                     <l>And where to moſt advantage aly our Bones.</l>
+                     <stage>Exeunt Omnes</stage>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>ACT II. SCENE III.</head>
+                  <stage>
+                     <hi>Enter</hi> 3 <hi>or</hi> 4 <hi>Souldiers</hi> — Mac-Shane, O Donnel, Teigue, <hi>&amp;c.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Teigue.</speaker>
+                     <p>BY my Shoul now if ever poor <hi>Teigue</hi> ſaw the like in my Life. Why my Goſſip ty'd a Red Ribon about my left hand that I might be ſure to know it from my right,— and the Ugly-Dog Rogue of an <hi>Engliſh</hi> Serjeant bid me turn to the Right, and put me quite out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mac-Shane.</speaker>
+                     <p>But was n't mine Stranger than that too?—may they maak haung upon my Mothers Son if I did did not turn the ſame way both times, and yet the Churl ſaid I was right the firſt, and wrong the ſecond time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>O Donnel.</speaker>
+                     <p>And when he bid us Face about, I thought t'had bin to charge the Enemy — ſo daring not be out of my Ranks at ſuch a dangerous time, ran back agen to the main Body whence I was drawn.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Teigue.</speaker>
+                     <p>Upon my Shaulvaaſhion but ſo did we too — but had the Rebels bin coming in earneſt — wee'd have cut the pittiful Raſcals all to pieces. — So, ſo, — <hi>Teigue</hi> wou'd have ript up the Guts of the Hereticks. —</p>
+                     <stage>Puls out his Sword and Fences in the Air.</stage>
+                     <p>So he would have out his Head off. — and juſt ſo, —</p>
+                     <stage>Clubs his Muſquet.</stage>
+                     <p>Juſt ſo when he cry for mercy — No <hi>Engliſh</hi> Dog you — I'll knock out your Brains.</p>
+                     <stage>
+                        <hi>While they are Vaporing and Laughing, Enter the Detach<g ref="char:EOLhyphen"/>ment that went to Storm the Caſtle, beat in by the</hi> Engliſh,
+<pb n="29" facs="tcp:103279:16" rendition="simple:additions"/>
+                        <hi>who Sally'd upon 'em.]</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Officer.</speaker>
+                     <l>They Fought like Devils, and Ours not like men;</l>
+                     <l>Like Women, nay a Child, an <hi>Engliſh</hi> Boy</l>
+                     <l>Might kill 'em had he but the ſtrength, for they</l>
+                     <l>Make no reſiſtance — once more if you're men</l>
+                     <l>Stand and ſave all — do but look back and ſee</l>
+                     <l>Your Enemy. —</l>
+                  </sp>
+                  <stage>[<hi>The</hi> Engliſh <hi>Enter. The Officer and ſeveral Souldiers fall.</hi> O Donnel <hi>tumbles among the Slain, and pretends himſelf Dead.</hi> Mac Shane <hi>creeps into a Buſh, and</hi> Teigue <hi>being the nimbleſt Footman, runs away (the</hi> Engliſh <hi>following the Chaſe,) and Re-enters breathleſs at the Generals Tent.</hi>
+                  </stage>
+                  <stage>
+                     <hi>Enter</hi> Macarty, <hi>Officers,</hi> Teigue <hi>looking fearfully over his Shoulder.</hi> —</stage>
+                  <sp>
+                     <speaker>Teigue.</speaker>
+                     <l>O Sir — my Lord—we're loſt — St. <hi>Patrick</hi> ſave us!</l>
+                     <l>The Army — oh — the <hi>Engliſh</hi> Army.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>VVhat of them Coward? are they more than men?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Teigue.</speaker>
+                     <p>Than men Sir — O yes Sir — They have every one of 'em Eyes as big as Sawcers, and ſpit Fire like Dragons — twenty thouſand, O they're here juſt at the Door, and I'm Dead.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <p>VVhat are they come <hi>Incognito?</hi> — VVe muſt have ſeen or heard ſome News what ever 'tis.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <l>Go bid my Regiment advance.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <l>They're here — and even juſt there's the Enemy.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter the</hi> Engliſh, <hi>beating in the</hi> Iriſh —</stage>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>Is this the dreadful Army? one poor Company!</l>
+                     <l>VVell-Charge 'em — See if they are all immortal.</l>
+                  </sp>
+                  <stage>
+                     <hi>They Charge the</hi> Engliſh, <hi>who ſtill Fighting retreat in good Order, till they regain their Fort.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>Farewell Temper! 'Tis beyond the Patience</l>
+                     <l>Not only of a Souldier but a Saint</l>
+                     <l>
+                        <hi>Patrick</hi> himſelf, of whom our holy Fryers</l>
+                     <l>Tell us ſuch holy Lies, wou'd ſwear to ſee it;</l>
+                     <l>This half a-handfull to outbrave our Army!</l>
+                     <l>Come on, go off, beat, kill, do what they pleaſe! —</l>
+                     <pb facs="tcp:103279:16" rendition="simple:additions"/>
+                     <l>O Fate — thou'ſt cheated me — ſure I was mouldie,</l>
+                     <l>To lead ſuch men as thoſe who Conquer mine,</l>
+                     <l>Yes rather had I head one ſingle Troop</l>
+                     <l>Of ſuch as they, than all this Soulleſs rout!</l>
+                     <l>This Pageant of a War — this Paſtbord Army,</l>
+                     <l>Scarce thoſe in muſty Arras wove look worſe,</l>
+                     <l>Or ſtand more patient to be cut in pieces:</l>
+                     <l>No, there I wrong'd 'em firſt — they will not ſtand,</l>
+                     <l>So faſt they run, that Death can ſcarce o'retake 'em,</l>
+                     <l>Almoſt outſtrip a Bullet in his March,</l>
+                     <l>With Fate and Vengeance wing'd and red Deſtruction.</l>
+                     <l>VVhy muſt I bear ſo many thouſand Deaths,</l>
+                     <l>Before the laſt kind true one gives me Eaſe,</l>
+                     <l>And ſends this rage and ſhame a paſſage hence,</l>
+                     <l>Quite cruſted round my heart — I'll ſtay no longer,</l>
+                     <l>If there's a Purgatory ſure 'tis here,</l>
+                     <l>Quick, quick, I'll thro' it all and reach my Heaven,</l>
+                     <stage>To the Officers.</stage>
+                     <l>Go bid the Army March, if they'll obey you,</l>
+                     <l>Miſtake not wilfully and run away,</l>
+                     <l>I'll be for <hi>Inniskilling</hi> or my Tomb;</l>
+                     <l>—Here call a <hi>Drummer,</hi> — Speed him quickly thither,</l>
+                     <l>Carry this Summons to the <hi>Governour,</hi>
+                     </l>
+                     <l>Were not my Soveraigns Honour in't concern'd,</l>
+                     <l>Shame wou'd not let me make a propoſition</l>
+                     <l>To ſuch as thoſe, to yield to ſuch as ours.</l>
+                     <l>This will, unleſs I much miſtake his temper,</l>
+                     <l>Quickly bring him, and Victory or Death,</l>
+                     <l>Either of which wou'd be ſo welcome now,</l>
+                     <l>I ſcarce know which to chuſe.</l>
+                  </sp>
+                  <stage>As the Drummer is going out, Enter one from the Out-Guards.</stage>
+                  <sp>
+                     <speaker>Souldier.</speaker>
+                     <l>My Lord, we ſaw the Enemy advancing</l>
+                     <l>On yonder Hill, — and move ſo faſt they muſt</l>
+                     <l>Be very ſoon upon us.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>Labour ſaved —</l>
+                     <l>I ſee there's men of Honour and Civility.</l>
+                     <pb n="30" facs="tcp:103279:17" rendition="simple:additions"/>
+                     <l>We've yet as much advantage as we'd wiſh for,</l>
+                     <l>There's not a better ſpot of Ground in <hi>Europe</hi>
+                     </l>
+                     <l>To cool their Courage, — On this little riſe</l>
+                     <l>We'll place our Canon, and our laſt Reſerve.</l>
+                     <stage>(Speaks to an Officer.)</stage>
+                     <l>You <hi>Colonel,</hi> Take the Horſe, and keep the Cauſway,</l>
+                     <l>Between the Bogs — And you the Foot diſpoſe</l>
+                     <stage>(Speaks to another.)</stage>
+                     <l>On either Wing, — Thus planted if they will</l>
+                     <l>But hold their Swords before 'em, 'tis impoſſible</l>
+                     <l>To loſe at leaſt: — And when their Troops are tired,</l>
+                     <l>We may at pleaſure fall upon and break 'em,</l>
+                     <l>And once bid fair for Fame. —</l>
+                     <stage>[Exeunt Officers.]</stage>
+                     <l>Tho' yet I hope not —</l>
+                     <l>Not hope it, — Yes, the man who bravely dies,</l>
+                     <l>In the diſcharge of whatſoever Poſt</l>
+                     <l>He's fix'd at, Fames his everlaſting portion</l>
+                     <l>What e're he loſe, then lets be all — <hi>Macarty.</hi>
+                     </l>
+                     <l>— My Soul my thinks expands its ſelf, and greatens</l>
+                     <l>With proſpect of near Immortality.</l>
+                     <l>Look down you Holy Forms! who reign above</l>
+                     <l>Where no Contentions dwell, but thoſe of Love.</l>
+                     <l>You Saints, you Heroes all, of whom we're told</l>
+                     <l>You flouriſh'd here, — And might perhaps of old!</l>
+                     <l>If 'ere <hi>Macarty</hi> did an act was baſe,</l>
+                     <l>Dart all your Thunders in his perjur'd Face;</l>
+                     <l>But if he Vertue and fair Fame purſu'd,</l>
+                     <l>And Ill n'ere choſe, unleſs ith' ſhape of Good:</l>
+                     <l>If ne're, unleſs deceiv'd, his Sword was known</l>
+                     <l>To own a Cauſe which you wou'd bluſh to own;</l>
+                     <l>Then either aid him with ſucceſs to day,</l>
+                     <l>Or take at once his Shame and Life away.</l>
+                     <l>His Soul, a Stranger there, a place provide</l>
+                     <l>Among thoſe ſhining few who bravely dy'd;</l>
+                     <l>Open the Gates, and your kind arms prepare,</l>
+                     <l>They come, they come, you ſoon will find him there.</l>
+                  </sp>
+                  <stage>Exit to the Battle.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <pb n="31" facs="tcp:103279:17" rendition="simple:additions"/>
+                  <head>ACT II. SCENE IV.</head>
+                  <stage>
+                     <hi>Both Armies, the</hi> Iriſh <hi>as before, the</hi> Engliſh <hi>advancing up to the Cauſway — the Canons play, Trumpets, Drums, Fifes ſounding.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>THere's the Enemy! —</l>
+                  </sp>
+                  <sp>
+                     <speaker>Collonel.</speaker>
+                     <l>Enough — there needs no Word—</l>
+                     <stage>
+                        <hi>The</hi> Engliſh <hi>fall on deſperately at the Cauſway — the</hi> Iriſh <hi>receive 'em, and a warm diſpute follows.</hi>
+                     </stage>
+                     <l>Macarty <hi>from the Hill.</hi>
+                     </l>
+                     <l>They ſtand! they ſtand! — Nor yet — nay then I'll hope —</l>
+                     <l>And if they run not, now e'ne beg their Pardon,</l>
+                     <l>And give my ſelf the Lye — There is no way for Foot,</l>
+                     <l>Thoſe Boggs are inacceſſible — Let's bring</l>
+                     <l>The Canon once to bear, the Day's our own.</l>
+                     <l>Governour <hi>to his Soldiers.</hi>
+                     </l>
+                     <l>How Gentlemen — not Conquer? Theſe are <hi>Iriſh,</hi>
+                     </l>
+                     <l>All errand <hi>Iriſh</hi> — whom as oft yo've baffled</l>
+                     <l>As ſeen — I know you'll beat, but what's the Reaſon</l>
+                     <l>You ſtay ſo long? — Charge home with the Pikes,</l>
+                     <l>Now — Now or Never —</l>
+                  </sp>
+                  <stage>
+                     <hi>The Foot receive all the Enemy's Fire, and paſs the Boggs to meet 'em, who on the</hi> Inniskilling <hi>Mens firſt Fire retreat in Diſorder.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>St. <hi>George!</hi> we've paſt the Boggs — they run, they run,</l>
+                     <l>And theſe too bend —</l>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>A whole half-hour — 'tis fair,</l>
+                     <l>And more than I in Conſcience cou'd expect.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Collonel.</speaker>
+                     <l>I'll charge my ſelf — the Battel totters,</l>
+                     <l>Theſe may reſtor't —</l>
+                  </sp>
+                  <stage>To a Collonel and Officers about him.</stage>
+                  <sp>
+                     <speaker>Coll.</speaker>
+                     <l>We wait you with our Lives — if not too late,</l>
+                     <l>For the Horſe break — and ſee my Lord — the Devils</l>
+                     <l>Come rolling on in Smoak, and Fire, and Blood,</l>
+                     <l>We yet may fly —</l>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>When dead if I get off</l>
+                     <l>That's ſoon enough — come follow you that Love</l>
+                     <l>Your King or me —</l>
+                  </sp>
+                  <pb n="32" facs="tcp:103279:18" rendition="simple:additions"/>
+                  <stage>
+                     <hi>They endeavour to rally the broken Army, the</hi> Engliſh <hi>come on, take the Cannon, and turn it on the</hi> Iriſh; <hi>ſome throw themſelves into the Bogg, and are knockt on the Head there; others ask Quarter, and throw down their Arms,</hi> &amp;c.</stage>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>Rally behind me — once — ſtand once — but 'till</l>
+                     <l>I've met the Torrent — and then run to Perdition —</l>
+                  </sp>
+                  <sp>
+                     <speaker>Coll.</speaker>
+                     <l>'Tis vain — they are as deaf as fighting Winds,</l>
+                     <l>A Drove of Sheep as ſoon will ſtop their running,</l>
+                     <l>When one leaps firſt — The Torrent bears us down,</l>
+                     <l>And hurrys us too with 'em to the Wood.</l>
+                     <l>All's loſt — yet will your Lordſhip ſave your ſelf?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>For what — or where — this Army was my Life,</l>
+                     <l>My Spirits — my Blood — 'tis loſt, and I'm dead with it,</l>
+                     <l>Let's turn and fall like what we've lived.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Coll.</speaker>
+                     <l>We cannot, —</l>
+                     <l>Unleſs we over them or under paſs;</l>
+                     <l>And ſee — already to the Wood we're born,</l>
+                     <l>Driven with the edge of the Multitude</l>
+                     <l>Out of the Tide of Death —</l>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>Then let's return to't,</l>
+                     <l>Now 'tis worth ſtemming — I have lived too long</l>
+                     <l>By half an hour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Officers.</speaker>
+                     <l>We'll follow and dye with you.</l>
+                  </sp>
+                  <stage>
+                     <hi>They make up to a Party of the</hi> Inniskilling-<hi>men, at whom</hi> Macarty <hi>diſcharges his Piſtol, at which they all fire at him, and ſhoot him down; a Souldier comes up, and Clubs his Muſquet to knock out his Brains.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>They have done kindly, but thou'lt yet do better,</l>
+                     <l>Quick — kill me Villain — or I'll riſe and kill thee.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Iriſh Officers.</speaker>
+                     <l>Macarty!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Engliſh Capt.</speaker>
+                     <l>Spare his Life! and 'tis a noble Pris'ner!</l>
+                     <l>Give him fair uſage, thô you keep him ſafe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Macarty.</speaker>
+                     <l>O cruel Wretches — now I'll call you baſe</l>
+                     <l>Cowards — to take a ſhott and not return it.</l>
+                     <l>Looſe my Arm — yet — you ſhall have t'other — No</l>
+                     <l>I need you not —</l>
+                  </sp>
+                  <stage>Drops into a ſwound with his Wounds, they carry him off, and the Scene cloſes.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <div n="1" type="scene">
+                  <pb n="33" facs="tcp:103279:18" rendition="simple:additions"/>
+                  <head>ACT III. SCENE III. <hi>LONDON-DERRY.</hi>
+                  </head>
+                  <stage>
+                     <hi>Enter</hi> Governour, <hi>three</hi> Collonels, Captains, <hi>&amp;c.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>'TWas a bold Act, but juſt and neceſſary,</l>
+                     <l>Which made us Maſters of our Lives and <hi>Derry.</hi>
+                     </l>
+                     <l>'Tis now too late to ſhrink, and who wou'd do't,</l>
+                     <l>Thô twere not ſo? We yet are ſtrong enough,</l>
+                     <l>Althô almoſt on every ſide betray'd,</l>
+                     <l>
+                        <hi>Bandon, Dungannon,</hi> quitted all and loſt,</l>
+                     <l>Our Paſſes forc'd meerly for want of fighting,</l>
+                     <l>Relief refuſed, when half within our Walls.</l>
+                     <l>The <hi>Engliſh</hi> Troops, Proviſion, Ammunition,</l>
+                     <l>And all our moſt experienced Officers,</l>
+                     <l>All gone, and little left but Walls and Hearts,</l>
+                     <l>Yet hold they faſt, and favour us kind Heaven,</l>
+                     <l>We need not yet deſpair — A happy riddance</l>
+                     <l>Of ſome we've made, whoſe Preſence if ſtill with us</l>
+                     <l>Had done more harm than good: We have Proviſions,</l>
+                     <l>And while the Countrey's clear may yet bring more;</l>
+                     <l>A Garriſon, ſtrong, numerous, and vigorous;</l>
+                     <l>We've newly ſent agen for aid to <hi>England,</hi>
+                     </l>
+                     <l>If we ſucceed, Hiſtory will record</l>
+                     <l>Our Actions louder than <hi>Oſtend</hi> or <hi>Troy;</hi>
+                     </l>
+                     <l>And if we fall, never a braver Cauſe,</l>
+                     <l>Nor can it more be worth the while to dye.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Collonel.</hi>
+                     </speaker>
+                     <l>The Enemy apace are drawing hither,</l>
+                     <l>Headed by <hi>Hamilton,</hi> who falſify'd</l>
+                     <l>His Word and Truſt with <hi>England</hi> — they are numerous,</l>
+                     <l>But yet all <hi>Iriſh,</hi> ſave ſome Officers</l>
+                     <l>Sent o're from <hi>France,</hi> both Nations we have conquer'd,</l>
+                     <pb n="34" facs="tcp:103279:19" rendition="simple:additions"/>
+                     <l>And may agen — unleſs by Famine preſs'd,</l>
+                     <l>More than the Enemy — which, to avoid,</l>
+                     <l>Twere neceſſary every private Houſe</l>
+                     <l>Were ſearcht immediately, and all things brought</l>
+                     <l>To th' general Magazine, thence given out</l>
+                     <l>By juſt proportion as our number is.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>You Counſel well — about it inſtantly;</l>
+                     <l>But what's of more concern, if poſſible,</l>
+                     <l>Than that it ſelf, — Let's all promote a Union</l>
+                     <l>In different Parties here — if that once break,</l>
+                     <l>We're loſt inevitably, and become</l>
+                     <l>The ſcorn and triumph of our Enemies.</l>
+                     <l>What was't deſtroy'd the fam'd <hi>Jeruſalem,</hi>
+                     </l>
+                     <l>But Faction within, more deadly and more fatal</l>
+                     <l>Than all the <hi>Roman</hi> Army at the Gates?</l>
+                     <l>And batter'd down their Walls with more ſucceſs</l>
+                     <l>Within, than did the Engines from abroad.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Coll.</hi>
+                     </speaker>
+                     <l>So well I hope our Intereſt is ſeen,</l>
+                     <l>That thô their Heads being gone, moſt left behind</l>
+                     <l>Seem little better than a Rabble now;</l>
+                     <l>Yet even they can <hi>Feel</hi> as well as others,</l>
+                     <l>Thô not much uſed to <hi>think</hi> — Beſides we've Officers</l>
+                     <l>Remaining ſtill behind, as brave as thoſe</l>
+                     <l>Who quitted <hi>Derry,</hi> and as ſignaliz'd</l>
+                     <l>In bold Defence o'th' <hi>Engliſh</hi> Int'reſt here;</l>
+                     <l>Theſe have the Hearts of all the common ſort,</l>
+                     <l>And both wou'd rather Dye, nay, Starve, than yield;</l>
+                     <l>They'd make it Death to <hi>think</hi> as well as <hi>ſpeak</hi> on't,</l>
+                     <l>Cou'd one as well as t'other be diſcover'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Coll.</hi>
+                     </speaker>
+                     <l>Already their Fidelity we've try'd,</l>
+                     <l>And quickly ſhall their Valour, thô oppreſt</l>
+                     <l>With numbers at the Fords, and wanting all</l>
+                     <l>Was neceſſary for their own Defence:</l>
+                     <l>But now they're ſatisfy'd their Leaders are</l>
+                     <l>Firm as themſelves, ready to ſhare their danger.</l>
+                     <l>In a few hours we eaſily ſhall gueſs</l>
+                     <l>Their future Carriage, for the Enemy</l>
+                     <pb n="35" facs="tcp:103279:19" rendition="simple:additions"/>
+                     <l>Comes on a pace, already part encampt</l>
+                     <l>Upon the neighb'ring Hills — the whole conſiſts</l>
+                     <l>Of twenty-thouſand men effectively;</l>
+                     <l>The <hi>beſt</hi> of <hi>bad,</hi> cull'd out of all the reſt,</l>
+                     <l>Canon they have, and Bombs and Engineers,</l>
+                     <l>We muſt expect ſmart Entertainment with 'em.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>Let's to the Walls, and ſee what Face they bear,</l>
+                     <l>Tho' probaby we ſhortly may meet nearer.</l>
+                  </sp>
+                  <stage>Exeunt omnes.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>SCENE II. <hi>The</hi> Iriſh <hi>CAMP, — and General's Tent.</hi>
+                  </head>
+                  <stage>Hamilton, Mamow, Puſignan, Clancarty, Butler, Fitz-gerald, <hi>and other Officers.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Hamilton.</speaker>
+                     <l>WHat mean theſe ſturdy Rebels, that they yet</l>
+                     <l>Delay ſurrendring? Can they think to ſtand</l>
+                     <l>Our Royal Army? will thoſe ragged Walls</l>
+                     <l>Which ſcarce will bear the ſhock of their own Canon,</l>
+                     <l>How then of ours, ſecure 'em from our Arms?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mamow.</speaker>
+                     <l>Begar me vill batter 'em down with 1, 2, 3, Potgun.</l>
+                     <l>Vat the Diable do they mean? do they not know</l>
+                     <l>My great Maiſtre ſend his Lieutenant General <hi>Mamow</hi>
+                     </l>
+                     <l>To pull down all de Walls, and burn, kill, kill,</l>
+                     <l>De Man, Woman, and ſhucking Shild dat fight vid his</l>
+                     <l>Brother King of <hi>England?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Fitz-gerald.</speaker>
+                     <l>They only kindly ſtay 'till we attack 'em,</l>
+                     <l>That we may have the pleaſure</l>
+                     <l>Of Military Execution on 'em;</l>
+                     <l>For 'tis impoſſible they ſhou'd ſuſtain</l>
+                     <l>The leaſt aſſault of ſuch a puiſſant Army.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Butler.</speaker>
+                     <l>Perhaps they queſtion if we're yet in earneſt;</l>
+                     <l>Were but a Battery rais'd, and ſome few Bombs</l>
+                     <l>Thrown in, 'twou'd make 'em tremble and ſubmit,</l>
+                     <l>If not infatuated.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hamilton.</speaker>
+                     <l>The Experiment is quickly try'd upon 'em:</l>
+                     <l>Call th' Engineers, and let ſome ſhot be play'd</l>
+                     <pb n="36" facs="tcp:103279:20" rendition="simple:additions"/>
+                     <l>Againſt the Market-houſe — perhaps 'twill ſtagger 'em,</l>
+                     <l>To ſee the Stones rattle about their Ears.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clancarty.</speaker>
+                     <l>A tedious way — and wer't not far more brave</l>
+                     <l>To ſcale it inſtantly, and put to th' Sword</l>
+                     <l>Whoe're reſiſt? I'd be the firſt ſhould lead 'em.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hamilton.</speaker>
+                     <l>My Lord, none e're could doubt <hi>Clancarty</hi>'s Valour,</l>
+                     <l>But the Kings Subjects muſt not be expoſed</l>
+                     <l>To cauſeleſs hazards — time enough for that</l>
+                     <l>If this ſucceed not — as I'd hope it may;</l>
+                     <l>— For ſee — already they ſet ope the Gates,</l>
+                     <l>And hurry in diſorder hitherward;</l>
+                     <l>Their wiſeſt way, to yield upon Diſcretion.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Butler.</speaker>
+                     <l>They rather ſeem to bear the face of Men</l>
+                     <l>Deſperately bent to ruine — ſee already</l>
+                     <l>They charge our careleſs Out-Guards, and have beat 'em</l>
+                     <l>Home to the Trenches.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hamilton.</speaker>
+                     <l>They are Impudent —</l>
+                     <l>But ſhall be cooler — To your Charges ſtrait;</l>
+                     <l>Draw out a Party of Horſe and face the Rebels;</l>
+                     <l>Remember 'tis the firſt Attempt, on that</l>
+                     <l>May very much of our Succeſs depend.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Fitz-girald.</speaker>
+                     <l>They've taken a long Sally from their Town,</l>
+                     <l>Nor ſhall return in haſt —</l>
+                  </sp>
+                  <stage>Exeunt omnes.</stage>
+                  <stage>
+                     <hi>Enter a Party of the</hi> Derry men. <hi>Collonels, Captains,</hi> &amp;c.</stage>
+                  <sp>
+                     <speaker>Collonel.</speaker>
+                     <l>So — we begin to rouze 'em — who wou'd think</l>
+                     <l>To ſee how briskly they at firſt advance;</l>
+                     <l>They were reſolv'd to play an <hi>Iriſh</hi>-trick,</l>
+                     <l>And run away; but that 'tis the Beaſts Nature,</l>
+                     <l>Since one o'th two muſt run, he'll be ſo civil</l>
+                     <l>To ſave the other ſide the Labour.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Iriſh, Mamow, Fitz girald, <hi>&amp;c.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Fitz-girald.</speaker>
+                     <l>Yield Rebels!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Collonel.</speaker>
+                     <l>Yes! —</l>
+                  </sp>
+                  <stage>
+                     <hi>Shoots him dead, the Parties joyn, the</hi> Engliſh <hi>beat the</hi> Iriſh <hi>off, and fight behind the Scenes.</hi>
+                  </stage>
+               </div>
+               <div n="3" type="scene">
+                  <pb n="33" facs="tcp:103279:20"/>
+                  <head>SCENE III. <hi>Derry.</hi>
+                  </head>
+                  <stage>Enter Governour; to him a Captain from the Field.</stage>
+                  <sp>
+                     <speaker>Captain,</speaker>
+                     <l>'Twas a tough bout—, the <hi>Iriſh</hi> cheated us</l>
+                     <l>And fought awhile like men.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>We from the Walls</l>
+                     <l>Cou'd not diſtinctly ſee what happened there.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <l>From the brave Colonel I'm ſent on purpoſe,</l>
+                     <l>Who charg'd i'th' head o'th' Horſe to give account</l>
+                     <l>Of this days action—, who is now retired</l>
+                     <l>Under the Walls where ſtill he'll face the Enemy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>Cure my impatience quick, and let me hear't.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <l>He in two Squadrons firſt the Horſe divides</l>
+                     <l>The Enemy did the ſame; they met us briskly,</l>
+                     <l>And head to head we fought, and breaſt to breaſt;</l>
+                     <l>No way appear'd but thro', or o're each other</l>
+                     <l>Each cloſe t'his Friend, as cloſe t'his Enemy,</l>
+                     <l>Two Iron Bodies hacking one another</l>
+                     <l>As Smiths on Anvils beat— while ſmoke and Fire</l>
+                     <l>And ſparks as thick as theirs flew from each Helmet,</l>
+                     <l>Long thus we tugg'd till our impatient Colonel</l>
+                     <l>Grown angry beyond ſuffrance when they grew</l>
+                     <l>Unconſcionably tedious e're they ran,</l>
+                     <l>With his broad Sword clove one o'th' foremoſt down</l>
+                     <l>Almoſt to th' Girdle-ſted, then ſhould'ring in</l>
+                     <l>Charg'd thro' the whole Brigade—, we follow'd him</l>
+                     <l>And glean'd the Deaths behind him. Twice he met</l>
+                     <l>And hand to hand grappled their bold Commander</l>
+                     <l>The <hi>French Mamau,</hi> who fought and curs'd as heartily</l>
+                     <l>As poſſible—, as oft agen was ſundred</l>
+                     <l>By droves of either Party ruſhing in</l>
+                     <l>Betwixt their lifted Swords— the third wiſh'd time</l>
+                     <pb n="34" facs="tcp:103279:21"/>
+                     <l>They met, and Monſieur at the firſt Encounter</l>
+                     <l>Fell dead, blaſpheming on the duſty<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> plain</l>
+                     <l>And dying bit the ground—. His Brother came</l>
+                     <l>Madder than he and ſwore a quick Revenge</l>
+                     <l>Or elſe to follow him —, he had the laſt</l>
+                     <l>From the ſame hand, who ſent him groveling after</l>
+                     <l>On the ſame ſpot, ſo ſoon, their Souls and blood</l>
+                     <l>Met as they parted, theſe upon the Sand,</l>
+                     <l>And thoſe i'th' airy regions—. All the reſt</l>
+                     <l>Were fairly following them—, till a new party</l>
+                     <l>Came from the Camp, who with their very weight</l>
+                     <l>Forc'd a Retreat—, they eagerly preſt on</l>
+                     <l>And met their Fate behind, our Foot ſtood ready</l>
+                     <l>Who all the Ditches lined, and gave 'em ſuch</l>
+                     <l>Warm Entertainment very few return'd</l>
+                     <l>To tell the News—. At leaſt two hundred left</l>
+                     <l>Upon the ſpot, their Standard we have won</l>
+                     <l>And ſtore of ſpoil, nor loſt above ſome Ten</l>
+                     <l>In all the Action.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>Like true <hi>Brittains</hi> done</l>
+                     <l>—And ſee they here return loaden with ſpoils</l>
+                     <l>And fairly purchaſe Lawrels—. —Welcom here</l>
+                     <stage>
+                        <hi>Enter from the Walls, the Colonel, Officers, Souldiers,</hi> &amp;c.</stage>
+                     <l>Thrice welcom to my Breaſt! dread Sons of War</l>
+                     <l>My Heart beats quick, and ſomething feels abroad</l>
+                     <l>Kin to its own—, 'twou'd fain get out and meet it</l>
+                     <l>O how I envy you ſo great an Action</l>
+                     <l>(Or were you any elſe ſhou'd envy you)</l>
+                     <l>You've let 'em know what they muſt look for from <hi>Derry</hi>
+                     </l>
+                     <l>What Edge your Courages and Swords do bear.</l>
+                  </sp>
+                  <stage>[<hi>Embraces the Colonel,</hi> &amp;c]</stage>
+                  <sp>
+                     <speaker>Colonel.</speaker>
+                     <l>We've bid 'm welcom— ſomewhat heartily</l>
+                     <l>And as they like it, let 'em come agen</l>
+                     <l>Tho' they'l perhaps be wiſer—.</l>
+                  </sp>
+                  <pb n="35" facs="tcp:103279:21"/>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>No they will not</l>
+                     <l>We certainly ſhall have 'em quickly with us</l>
+                     <l>Raſhneſs and Cowardice make up their Nature,</l>
+                     <l>Prompt to attempt, mad, eager on deſtruction</l>
+                     <l>Like other Beaſts they'l run on Sword and Fire.</l>
+                     <l>The Bores will ſtake themſelves, hold but the Spear</l>
+                     <l>Direct againſt 'em—, but when once they feel</l>
+                     <l>The warm blood trickle down and ſtain the Earth</l>
+                     <l>Unlike a generous Beaſt, like Curs they whine</l>
+                     <l>Clap up their Tails and run, nor will they ſtop</l>
+                     <l>Till death reach them, or they ſome place of ſafety.</l>
+                     <l>—Howe're we are prepar'd—, freſh men to th' Walls</l>
+                     <l>I'le ſpeed away, and others to the works:</l>
+                     <l>While all your honourable wounds are dreſs't,</l>
+                     <l>And you from your long Toyl and Labours reſt.</l>
+                  </sp>
+                  <stage>Exeunt omnes.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>SCENE IV. <hi>The Iriſh Camp.</hi>
+                  </head>
+                  <stage>
+                     <hi>Enter</hi> Hamilton, Butler, Clancarty, Talbot, Nettervile, <hi>&amp;c.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Hamilton.</speaker>
+                     <l>Well—, 'tis the chance of War— always unequal,</l>
+                     <l>Sometimes they muſt ſuffer—, but Revenge</l>
+                     <l>Sweet dear Revenge will ſoon ſet all things right</l>
+                     <l>And almoſt make 'em live agen— we muſt</l>
+                     <l>Repay their viſit, home and ſpeedily.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Col. <hi>Talbot.</hi>
+                     </speaker>
+                     <l>If there be God or Devil, let both ſtand Neuter</l>
+                     <l>Or ſide with Rebels now as oft before</l>
+                     <l>'Tis the ſame thing—, I neither fear their Anger</l>
+                     <l>Nor hope their Aid—, this ſword and Arm's my God</l>
+                     <l>I have and do <hi>Decree</hi> to Conquer them.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hamilton.</speaker>
+                     <l>Still wicked Will! But yet he's reſolute</l>
+                     <l>And firm to th' Cauſe—, ſmall faults are ſoon paſs't over.</l>
+                     <l>But we've no room for talk—, ſwift action calls</l>
+                     <l>The <hi>Engliſh</hi> will be here with ſtrong Relief</l>
+                     <l>Unleſs we're ſpeedy—, Let's with Expedition</l>
+                     <l>The Life of every noble Enterprize.</l>
+                     <pb n="36" facs="tcp:103279:22"/>
+                     <l>Begin th' attaque upon their Lines, Works, Town.</l>
+                     <l>Laſt time they met you unprovided, now</l>
+                     <l>Prepar'd you come they ne're can think to ſtand.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Butler,</speaker>
+                     <l>What men can do, reſolved to beat or dye</l>
+                     <l>What Loyal Subjects againſt hated Rebels,</l>
+                     <l>And Catholicks againſt a faithleſs Crew</l>
+                     <l>Of curſed Heretical Dogs, we promiſe, ſwear,</l>
+                     <l>And Vow, ne're to return unleſs with Conqueſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hamilton,</speaker>
+                     <l>Succeſs attend you, equal to your valour.</l>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+               <div n="5" type="scene">
+                  <head>SCENE. V. <hi>Derry. The Walls.</hi>
+                  </head>
+                  <stage>
+                     <hi>Governour, Several Captains, Officers,</hi> &amp;c.</stage>
+                  <sp>
+                     <speaker>Govern.</speaker>
+                     <l>I find I took em right, the Camps in motion</l>
+                     <l>And ſome great thing in hand, ſee, there they come</l>
+                     <l>And ſwarm along as if they'd cover us,</l>
+                     <l>Three parties Horſe, two other Foot appear.</l>
+                     <l>Captain; I need not order you to your charges</l>
+                     <l>Who are already eager to be there.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Capt.</hi>
+                     </speaker>
+                     <l>The Feaſts ſo good there needs ſmall invita<g ref="char:EOLhyphen"/>tion.</l>
+                     <l>Wer'e gone—</l>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+                  <stage>Manent Governour and a Colonel.</stage>
+                  <sp>
+                     <speaker>Govern.</speaker>
+                     <l>Hark— from the Iriſh Camp a diſmal yell</l>
+                     <l>Loud as the Midnight Wolves when met in Troops</l>
+                     <l>To aſſault the Folds, their parties are come up,</l>
+                     <l>The Horſe have top'd our Line, with loud Huzza's</l>
+                     <l>And Fagots all before 'em.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Col.</speaker>
+                     <l>Truſt their welcome.</l>
+                     <l>See, are our men behind hand in returns</l>
+                     <l>They ſcorn to keep the Forts, but meet them fairly</l>
+                     <l>Tho' theirs the diſadvantage, on the Strand.</l>
+                     <l>See how they mow 'em! Sure they are grown hoarſe</l>
+                     <l>We here no more Huzzah's. Pykes, Muſquets, Scythes</l>
+                     <l>Have ſpoiled their Muſick.— Into th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Lough</hi> they run,</l>
+                     <l>And by one Death another vainly ſhun.</l>
+                  </sp>
+                  <pb n="37" facs="tcp:103279:22"/>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>Who ſhould that be that fights when all the reſt</l>
+                     <l>Are broke and ſhatter'd—; I cou'd wiſh his Life</l>
+                     <l>He is ſo brave</l>
+                  </sp>
+                  <sp>
+                     <speaker>Colonel.</speaker>
+                     <l>Unleſs my Eyes miſtake</l>
+                     <l>As eaſily they may at ſuch a diſtance</l>
+                     <l>'Tis young <hi>Montgarret</hi>—, ſee— his Horſe is kill'd</l>
+                     <l>And he takes Quarter—, all his Party routed.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Gov.</speaker>
+                     <l>'Tis well—, where are the reſt—? ha— at what diſtance,</l>
+                     <l>How reverendly the Cowards gaze upon</l>
+                     <l>Their Fellows Fate—, the other two bold Squadrons</l>
+                     <l>Who with thick bellowings lately tore the Air</l>
+                     <l>Stand ſtill as Statues.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Colonel.</speaker>
+                     <l>But their Foot come on</l>
+                     <l>And warmly too—, thoſe Granadeers fight well</l>
+                     <l>Ours bend a little—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Gov.</speaker>
+                     <l>Haſte your Regiment</l>
+                     <l>To their Relief.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Colonel.</speaker>
+                     <l>The work is done without it</l>
+                     <l>They've beat 'em off—, and fire ſtill on their Rear.</l>
+                     <l>—Ha! are they immortal— that none drop,</l>
+                     <l>With all our Shot?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Gov.</speaker>
+                     <l>O! Pleaſant Cowards—, ſee how witty Fear is!</l>
+                     <l>As they go off they bear the dead behind 'em</l>
+                     <l>Who do more ſervice now than while alive</l>
+                     <l>And guard the reſt from all our ſhot ſecure.</l>
+                     <l>—But ours return, and almoſt every man</l>
+                     <l>His Priſoner brings.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter the</hi> Derry <hi>Men, with</hi> Talbot, Nettervile, Butler, <hi>&amp;c. Priſoners.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Governour.</speaker>
+                     <l>
+                        <hi>To the Priſoners.</hi>
+                     </l>
+                     <l>Gentlemen— 'tis the Fate of War—, we uſe not</l>
+                     <l>What e're your Countrymen return us for it,</l>
+                     <l>To violate our Word and Quarter given.</l>
+                     <l>—<hi>To the Captains,</hi>
+                     </l>
+                     <l>See they are lodg'd as handſomly as our</l>
+                     <l>Convenience and Security permits 'em.</l>
+                  </sp>
+                  <stage>Exeunt omnes.</stage>
+               </div>
+               <div n="6" type="scene">
+                  <pb n="38" facs="tcp:103279:23"/>
+                  <head>SCENE. VI. <hi>The Iriſh Camp.</hi>
+                  </head>
+                  <stage>
+                     <hi>Enter An</hi> Iriſh <hi>Funeral, of one of their Commanders kill'd in the laſt Action. Tapers, Croſſes, Dirges. Two fat Friars ſinging—, and praying for his Soul.</hi>
+                  </stage>
+                  <div type="song">
+                     <head>Song by the Prieſts.</head>
+                     <lg>
+                        <head>1.</head>
+                        <l>REſt thy Soul in Bliſs dear Friend!</l>
+                        <l>Now beginning, n'ere to end:</l>
+                        <l>At Purgatory be not ſcar'd</l>
+                        <l>Its Flame ſhall never ſinge thy Beard.</l>
+                        <l>Mount to rights to Heav'n, nor ſtay</l>
+                        <l>To call at the Half-way-houſe by th'way.</l>
+                     </lg>
+                     <lg>
+                        <head>2.</head>
+                        <l>On thy Soul, while here below,</l>
+                        <l>If ſome little ſpots did grow:</l>
+                        <l>Murder, Perjury, or Rape</l>
+                        <l>Or ſome ſuch other ſmall Eſcape:</l>
+                        <l>By thy meritorious Fall</l>
+                        <l>Thou haſt o're atton'd 'em all.</l>
+                     </lg>
+                     <lg>
+                        <head>3.</head>
+                        <l>Innocent as Child unborn</l>
+                        <l>On the golden wings of morn</l>
+                        <l>Mount to bliſs, and pray for thoſe</l>
+                        <l>Strugling with their faithleſs Foes:</l>
+                        <l>Aid thy Friends who thee adore</l>
+                        <l>As thou other Saints before.</l>
+                     </lg>
+                     <p>[<hi>They put him into the Grave, and the</hi> Iriſh <hi>kneel down by him, tear their Hair, throw up the Dirt, and lament his death with unſufferable Howlings, as their manner is, ſinging this Song over his Grave.</hi>]</p>
+                  </div>
+                  <div type="song">
+                     <pb n="39" facs="tcp:103279:23"/>
+                     <head>
+                        <hi>Iriſh</hi> SONG.</head>
+                     <lg>
+                        <l>AH Brother Teague! Why didſt thou go?</l>
+                        <l>
+                           <hi>Whillilla lilla lilla lilla lilla lilla loo!</hi>
+                        </l>
+                        <l>And leave thy Friends in grief and wo,</l>
+                        <l>
+                           <hi>Aboo aboo aboo aboo aboo aboo aboo!</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Hadſt thou not ſtore of Houſhold-ſtuff</l>
+                        <l>
+                           <hi>Whillilla</hi> &amp;c.</l>
+                        <l>Potates and Uſquebagh enough</l>
+                        <l>
+                           <hi>Aboo</hi> &amp;c.</l>
+                     </lg>
+                     <lg>
+                        <l>Three Sheep, one Garroon, and a Cow</l>
+                        <l>
+                           <hi>Whillilla</hi> &amp;c.</l>
+                        <l>A Garden, Cabin and a Plough</l>
+                        <l>
+                           <hi>Aboo</hi> &amp;c.</l>
+                     </lg>
+                     <lg>
+                        <l>Hadſt thou not Bonny-clabbar ſtore</l>
+                        <l>
+                           <hi>Whillilla</hi> &amp;c.</l>
+                        <l>If not enough wee'd giv'n thee more.</l>
+                        <l>
+                           <hi>Aboo</hi> &amp;c.</l>
+                     </lg>
+                     <lg>
+                        <l>Why wouldſt thou Teague! Ah tell me why</l>
+                        <l>
+                           <hi>Whillilla</hi> &amp;c.</l>
+                        <l>Thus play the Fool and maake a dy</l>
+                        <l>
+                           <hi>Aboo</hi> &amp;c.</l>
+                     </lg>
+                     <lg>
+                        <l>Why didſt thou touch the fatal ſhore</l>
+                        <l>
+                           <hi>Whillilla</hi> &amp;c.</l>
+                        <l>Where we ſhall never ſee thee more</l>
+                        <l>
+                           <hi>Aboo aboo aboo aboo aboo aboo aboo!</hi>
+                        </l>
+                     </lg>
+                     <p>
+                        <hi>[While they are in the midſt of their Harmony comes a Shot from the Town, and kills the two Fryars and ſeveral others—, all the reſt ſtart up and run away.]</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="7" type="scene">
+                  <pb n="40" facs="tcp:103279:24"/>
+                  <head>SCENE VII. <hi>Derry.</hi>
+                  </head>
+                  <stage>
+                     <hi>The Walls—, Captains, Souldiers,</hi> &amp;c.</stage>
+                  <sp>
+                     <speaker>1 <hi>Sol.</hi>
+                     </speaker>
+                     <l>We've ſpoil'd their howling, why 'twas more unſufferable</l>
+                     <l>Then all their Canon—, there was a yell</l>
+                     <l>Fearful enough to've frighted him almoſt</l>
+                     <l>From his long ſleep agen.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Sol.</hi>
+                     </speaker>
+                     <l>But Oh! thoſe holy Cheats—, thoſe goodly Friars</l>
+                     <l>How they both caper'd when the Chain-ſhot came</l>
+                     <l>And Circumciz'd 'em juſt i'th' middle!</l>
+                     <l>By this time if their Souls are not ſo groſs</l>
+                     <l>Purſy and unwieldy as their Carcaſſes,</l>
+                     <l>They may have reach'd their Friend who went before 'em.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Capt.</hi>
+                     </speaker>
+                     <l>Never inſult over an Enemy</l>
+                     <l>Conquer'd or ſlain—, if either, that's enough</l>
+                     <l>The reſt is baſe—, 'Tis true o're you they wou'd</l>
+                     <l>But even there o'recome 'em as in Battle.</l>
+                     <l>—Come Captain—, Let's to our Charge— the <hi>Iriſh</hi> Priſoners</l>
+                     <l>See how they brook confinement here.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Capt.</hi>
+                     </speaker>
+                     <l>Agreed—</l>
+                  </sp>
+                  <stage>[<hi>They open a Door, and the Priſoners come forth—,</hi> Talbot, Macdonald, <hi>&amp;c. diſcontented and gloomy.</hi>]</stage>
+                  <sp>
+                     <speaker>1. <hi>Capt.</hi>
+                     </speaker>
+                     <l>to <hi>Talbot.</hi> You're Melancholy Colonel—, we are come</l>
+                     <l>To give you ſome diverſion— not inſult you</l>
+                     <l>What's now your Fate, to morrow may be ours.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Talbot.</speaker>
+                     <l>Such Rebels merit not ſo good—.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Capt.</hi>
+                     </speaker>
+                     <l>We Scorn</l>
+                     <l>The name and thing—, nor wou'd, nor ever did</l>
+                     <l>Yet take it in the Field—.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Macdonald.</speaker>
+                     <l>Can you deny it?</l>
+                     <l>To reaſon calmly—, took you not up Arms</l>
+                     <l>Againſt your Kings Lieutenant here at firſt,</l>
+                     <l>And ſince even he himſelf in Perſon's come</l>
+                     <l>Continue in your ſtubborn diſobedience?</l>
+                  </sp>
+                  <pb n="41" facs="tcp:103279:24"/>
+                  <sp>
+                     <speaker>1. <hi>Capt.</hi>
+                     </speaker>
+                     <l>For our firſt taking Arms, 'twas on advice</l>
+                     <l>Of Maſſacres intended—, and as ſome</l>
+                     <l>Of you acknowledge, actually propoſed</l>
+                     <l>To th' Deputy—. Thoſe barbarous attempts</l>
+                     <l>All Nations own 'tis lawful to repel</l>
+                     <l>With utmoſt Force, ſince that's the only Law</l>
+                     <l>Can either authorize or from 'em ſhield.</l>
+                     <l>The laſt is not forgot—. For our remaining</l>
+                     <l>In ſuch a poſture, 'tis for <hi>Englands</hi> King</l>
+                     <l>And <hi>Ireland</hi>'s too we fight—. This ever was</l>
+                     <l>Since Conquer'd, a Dependant held inſeparable</l>
+                     <l>From th' <hi>Engliſh</hi> Crown, when quitted, thrown away</l>
+                     <l>And ſlighted by that Bigot Prince who wore it</l>
+                     <l>Placed on two Royal Heads, the next in blood</l>
+                     <l>And brighteſt pair in <hi>Europe—,</hi> thoſe we own</l>
+                     <l>Our rightful King and Queen, and you no better</l>
+                     <l>Than that foul name with which you've branded us.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Talbot.</speaker>
+                     <l>The Maſſacre you talk of with ſuch dread</l>
+                     <l>Was no more real than that common place</l>
+                     <l>Of cruelty—, the bloody Forty one—</l>
+                     <l>When, after infinite inſufferable</l>
+                     <l>And odious provocations the poor Natives</l>
+                     <l>Took for themſelves and their Religion both</l>
+                     <l>Juſt neceſſary Arms, Commiſſion'd by</l>
+                     <l>The King himſelf—. The Murthers buzz'd ſo loud</l>
+                     <l>Were Executions which in War will ever</l>
+                     <l>Be more or leſs—, and thoſe you firſt begun</l>
+                     <l>How many Thouſands in the Iſle <hi>Magee;</hi>
+                     </l>
+                     <l>Before a ſtroke was ſtruck by ours— and then</l>
+                     <l>We offer'd Murtherers on either ſide</l>
+                     <l>Shou'd have fair Trial—, this you ne're accepted</l>
+                     <l>Becauſe you dared not.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Capt.</hi>
+                     </speaker>
+                     <l>Only there you're right.</l>
+                     <l>We dared not be indeed ſuch hardy Fools</l>
+                     <l>To truſt our Lives with <hi>Iriſh</hi> Conſciences</l>
+                     <l>Judges and Jury all your Countrymen</l>
+                     <pb n="42" facs="tcp:103279:25"/>
+                     <l>Who do notorious Juſtice when they meet us,</l>
+                     <l>And before ſuch you did propoſe a Tryal</l>
+                     <l>Of which there was no need, for all the <hi>Iriſh</hi>
+                     </l>
+                     <l>Had been acquitted, all the <hi>Engliſh</hi> guilty.</l>
+                     <l>That of <hi>Magee</hi> was a full year at leaſt</l>
+                     <l>After your horrid Maſſacre begun,</l>
+                     <l>And only warm revenge for many Murthers.</l>
+                     <l>Which you began er'e any provocation</l>
+                     <l>The hour, the day prefixt all o're the Kingdom</l>
+                     <l>Own'd by your own, and not by you denyed;</l>
+                     <l>Who only ſay you were provoked to what</l>
+                     <l>You did— but how— had you not your Eſtates,</l>
+                     <l>Liberties, Lives, although a conquer'd Nation;</l>
+                     <l>Were not your Lawyers, nay ſome Judges <hi>Iriſh,</hi>
+                     </l>
+                     <l>Was it Religion then? But was not that</l>
+                     <l>Which you call ſo, allowed more bare then ever,</l>
+                     <l>Convents and Nunneries every where connived at,</l>
+                     <l>No man moleſted, Maſs in publick ſaid</l>
+                     <l>All o're the Kingdom, ſpite of all the Laws</l>
+                     <l>Point-blank againſt it— as for your Commiſſions</l>
+                     <l>Your great <hi>Oneal</hi> himſelf, and Lord <hi>Mac-guire</hi>
+                     </l>
+                     <l>Own'd at their death 'twas all a Forgery.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Butler,</speaker>
+                     <l>Well Gentlemen, which ever part went wrong</l>
+                     <l>Or this or that can never now recall it.</l>
+                     <l>But one things certain, and you've treated us</l>
+                     <l>So generouſly we cannot but in kindneſs</l>
+                     <l>Adviſe you on't— You ſee no ſuccours yet</l>
+                     <l>From <hi>England</hi> come, or if they are in vain</l>
+                     <l>
+                        <hi>Kilmore</hi> is ours, and we a Boom have faſtned</l>
+                     <l>Acroſs the <hi>Lough</hi> that 'tis impoſſible</l>
+                     <l>By that way to releive you; —your Proviſions</l>
+                     <l>I ſee come ſhort, you may have yet fair Terms;</l>
+                     <l>If you ſtand out there's not a man eſcapes,</l>
+                     <l>Yield then and let not ſuch brave men be ruin'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Capt.</hi>
+                     </speaker>
+                     <l>Captain we thank you for your kind advice</l>
+                     <l>But ſhould the Souldiers hear you'd not be ſafe</l>
+                     <pb n="43" facs="tcp:103279:25"/>
+                     <l>From worrying, nor ſhou'd we propoſe it.</l>
+                     <l>We're one and all— There's not a private Centinel</l>
+                     <l>But willingly wou'd eat the Fleſh from one arm</l>
+                     <l>And fight with t'other, ere they wou'd ſurrender,</l>
+                     <l>—Beſides for yet a while we're richly ſtored</l>
+                     <l>Tallow and Starch, —why 'tis luxurious diet.</l>
+                     <l>And when that fails, and all beſides, the Garriſon</l>
+                     <l>Sir, we have heard e'm ſwear't, and do believe it</l>
+                     <l>Will firſt eat you, and then themſelves, e're yield.</l>
+                     <l>Tho' every hour we expect releif</l>
+                     <l>And know the Engliſh are ith' <hi>Lough</hi> already.</l>
+                     <l>And will be here—</l>
+                     <stage>(A ſhout without) But we muſt to our Charges.</stage>
+                     <l>For buſineſs calls, we wiſh you well to bear</l>
+                     <l>What can't he mended.</l>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+               <div n="8" type="scene">
+                  <head>SCENE VIII. <hi>Derry-Walls</hi>
+                  </head>
+                  <stage>Enter Governour, Colonels, Captains.</stage>
+                  <sp>
+                     <speaker>Govern.</speaker>
+                     <l>Too well appears the reaſon of that ſhout</l>
+                     <l>I'th' Iriſh Camp— See in the <hi>Lough</hi> below</l>
+                     <l>The Engliſh Ships attempting our relief,</l>
+                     <l>The firſt is ſtranded, while the barbarous Enemy,</l>
+                     <l>Runs down in Sholes to Fire, or kill, or take 'em,</l>
+                     <l>While with inſulting Flowts they call t'our Guards,</l>
+                     <l>And bid us ſend our Carpenters to help 'em.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Col.</hi>
+                     </speaker>
+                     <l>Some of their mirth is ſpoiled with that broad<g ref="char:EOLhyphen"/>ſide,</l>
+                     <l>Full in the midſt o'th' Rabble— nay the ſhock</l>
+                     <l>Unleſs— I ſee as many, what they wiſh.</l>
+                     <l>Has floated her again.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Col.</hi>
+                     </speaker>
+                     <l>'T has done it really</l>
+                     <l>Not only in your fancy, now Salvation!</l>
+                     <l>The Boom is broke, with Wind and Tide they come,</l>
+                     <l>And ſcatter ſtorms of Fire and Death about 'em</l>
+                     <pb n="44" facs="tcp:103279:26"/>
+                     <l>Till <hi>Kilmore</hi> rattles, and the bloody ſtrand</l>
+                     <l>Lies ſpread with Carcaſſes, and Legs and Arms,</l>
+                     <l>Bodies and Heads and Men alive and dead,</l>
+                     <l>Fly every where ſo faſt as if they ſtrove</l>
+                     <l>Which ſhou'd outrun the other.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Gov.</speaker>
+                     <l>They have reached the Key, relief &amp; life comes with 'em.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter Engliſh</hi> Captains.</stage>
+                  <sp>
+                     <speaker>Govern.</speaker>
+                     <l>Brave Countreymen there's little need to tell you,</l>
+                     <l>You're welcome here, for all that's left of <hi>Derry</hi>
+                     </l>
+                     <l>Confeſſes it, thoſe living Carcaſſes</l>
+                     <l>You ſee remaining fain wou'd ſmile, had they</l>
+                     <l>But fleſh enough to do it, not great <hi>Orange,</hi>
+                     </l>
+                     <l>Our now great King was with more joy received,</l>
+                     <l>In gaſping <hi>England</hi> when he came to ſave it</l>
+                     <l>From the ſame Enemy, then you are here.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Engl.</speaker>
+                     <l>C. Nor with leſs Joy we bring you this relief</l>
+                     <l>Then wee'd our ſelves receive it, but what news</l>
+                     <l>From th' Enemies Camp, muſt we go viſit them,</l>
+                     <l>Or won't they be ſo civil to attend us.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Govern.</speaker>
+                     <l>They do what they were born to run away.</l>
+                     <l>Fire all their very Tents and Huts, and worſe,</l>
+                     <l>The Countrey too leaſt we ſhould make advantage.</l>
+                     <l>Whole waggon-loads of Arms thrown into th' River.</l>
+                     <l>Burſting their largeſt Guns, as too unweieldy</l>
+                     <l>For thir light March, O had we but ſome Horſe</l>
+                     <l>To give 'em one kind Farewell, 'tis ſo ſtrange</l>
+                     <l>For thoſe who have been Neighbours now ſo long</l>
+                     <l>To part abruptly.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Engl.</speaker>
+                     <l>Capt. We again ſhall find 'em,</l>
+                     <l>For <hi>Schombergh</hi> ſpeedily is here deſigned</l>
+                     <l>With twenty thouſand men to march for <hi>Dublin.</hi>
+                     </l>
+                     <l>And end the War.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Governour,</speaker>
+                     <l>Impatiently we wait,</l>
+                     <l>Till that wiſh day when we agen may meet,</l>
+                     <l>Thoſe who ſo often grovelled at our Feet. <hi>Ex. Omn.</hi>
+                     </l>
+                  </sp>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <div n="1" type="scene">
+                  <pb n="45" facs="tcp:103279:26"/>
+                  <head>ACT. IV. SCENE. Firſt. <hi>Dublin.</hi>
+                  </head>
+                  <stage>
+                     <hi>Tyrconnel, Rice, Nugent,</hi> &amp;c. <hi>Neagle.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tyrc.</speaker>
+                     <l>
+                        <hi>Derry</hi> reliev'd, and <hi>Inniskilling</hi> loſt,</l>
+                     <l>Sure deſtiny miſtakes, or we do ſo.</l>
+                     <l>
+                        <hi>Macarty</hi> Priſoner, <hi>Hamilton</hi> baffled, <hi>Engliſh</hi> landed</l>
+                     <l>And more ſtill coming! What will next be done.</l>
+                     <l>Were all my Goods aboard, as once before</l>
+                     <l>And I there too, I ſcarcely ſhou'd look back</l>
+                     <l>To be Lieutenant, Or indeed a ſomething</l>
+                     <l>Which bears ſome leſſer name, (the King's ſcarce more</l>
+                  </sp>
+                  <stage>Aſide.</stage>
+                  <sp>
+                     <speaker>Nug.</speaker>
+                     <l>The glorious Cauſe we now are all embarkt in</l>
+                     <l>Is firm enough to ſtand in ſpite of all</l>
+                     <l>Th'attempts againſt it of weak Hereticks,</l>
+                     <l>What are two Towns? they yet have won no more</l>
+                     <l>Nay only kept 'em, and for the diſgrace</l>
+                     <l>Incurred by miſſing them, there are excuſes</l>
+                     <l>Sound plauſibly enough, which wee'l tranſmit</l>
+                     <l>To our Friends in <hi>England,</hi> as our ſelves wee'l uſe 'em.</l>
+                     <l>—Alas, 'twas place, a little mean</l>
+                     <l>And worthleſs Town, we only lay before it</l>
+                     <l>For Recreation, might have taken it</l>
+                     <l>When e're we pleaſed, at an hours warning had we</l>
+                     <l>But ſtrained our Forees there, 'tis true wee'd ſome,</l>
+                     <l>Some few perhaps of note who dy'd in th' Army,</l>
+                     <l>But there are many ways of death beſides</l>
+                     <pb n="46" facs="tcp:103279:27"/>
+                     <l>The Sword and Cannon, ſeveral brought Diſeaſes</l>
+                     <l>That left 'em there, tho' lives and all went with 'em.</l>
+                     <l>The uſual chance of War, not to be avoided.</l>
+                     <l>—For what's to come we've ſtill a numerous Army,</l>
+                     <l>A noble body of Horſe as are in <hi>Europe,</hi>
+                     </l>
+                     <l>Ten Thouſand with the leaſt— with theſe wee'l tug.</l>
+                     <l>At leaſt this Summer ore, the fickle Engliſh</l>
+                     <l>By then perhaps will tired and weary grow</l>
+                     <l>Of their new King, or <hi>France</hi> will be at leiſure</l>
+                     <l>To give their Arms a powerful diverſion</l>
+                     <l>And us aſſiſtance here. His Privateers</l>
+                     <l>Will ſcowr our Seas, and pick each Veſſel up</l>
+                     <l>That peeps abroad, this will breed Diſcontents</l>
+                     <l>In thoſe enough inclin'd to't without Cauſe,</l>
+                     <l>Beſides we ſtill have a ſtrong party there</l>
+                     <l>Deſperate and Reſolute—, they may produce</l>
+                     <l>Something themſelves thats not contemptible,</l>
+                     <l>But come the worſt, 'tis but to Fire the Countrey,</l>
+                     <l>Kill all the Heretics, and run away</l>
+                     <l>By th' Light their Houſes make.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Neagle,</speaker>
+                     <l>But ſtill for Money</l>
+                     <l>The Life oth' cauſe—, That muſt be got or all</l>
+                     <l>Yet done or counſelled will be loſt and nothing.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Rice,</speaker>
+                     <l>We ſhall have ſhortly large ſupplies from <hi>France</hi>
+                     </l>
+                     <l>Some we already have.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Neagle,</speaker>
+                     <l>All far too little</l>
+                     <l>But our Invention muſt ſupply what's wanting,</l>
+                     <l>Money there is ith' Kingdom, and good ſtore</l>
+                     <l>This i'le contrive, and ſpeciouſly, to bring</l>
+                     <l>Each Cob into th' <hi>Exchequer.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrconnel,</speaker>
+                     <l>That would half</l>
+                     <l>Reſtore my hopes, but 'tis impoſſible.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Neagle,</speaker>
+                     <l>Firſt hear it. I propoſe new pieces ſhould</l>
+                     <l>Be Coyned, of Copper, or ſome pretty mettal</l>
+                     <l>That may look well, their value as we pleaſe</l>
+                     <l>Let all be obliged to take this Royal money,</l>
+                     <pb n="47" facs="tcp:103279:27"/>
+                     <l>From Souldiers or the King; but when they pay</l>
+                     <l>Cuſtom or Subſidy, or ought beſide</l>
+                     <l>Be that in the old Coyn—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Rice,</speaker>
+                     <l>The only fear</l>
+                     <l>Is leaſt they murmur at the impoſition.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>How, murmur at their Prince, d'ye think they'r Rebels</l>
+                     <l>If he demands their their Throats, are they not his,</l>
+                     <l>Their heads, all at his ſervice, and ſhou'd tumble</l>
+                     <l>Themſelves oth' floor for him to tread and ſpurn 'em,</l>
+                  </sp>
+                  <sp>
+                     <speaker>Neagle,</speaker>
+                     <l>Not yet ſo high to run the ſuppoſition</l>
+                     <l>The Natives never were much uſed to Money</l>
+                     <l>To them 'tis all the ſame— alas they're ſcarce</l>
+                     <l>So ſubtle to diſtinguiſh one and to'ther</l>
+                     <l>And they're ith' right on't, every thing is worth</l>
+                     <l>Its ſettled value, if this buys a Cow</l>
+                     <l>And Silver did no more, 'tis the ſame thing.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrconnel.</speaker>
+                     <l>To ſay but truth, the leſs we are engaged</l>
+                     <l>To inſulting <hi>France</hi> the better, they begin</l>
+                     <l>To ſcorn, affront, abuſe the Native <hi>Iriſh</hi>
+                     </l>
+                     <l>Which we ſure cannot bear.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Neagle,</speaker>
+                     <l>Nor need we long—</l>
+                     <l>When once they'v done their buſineſs that they came for</l>
+                     <l>We eaſily can turn 'em home agen.</l>
+                     <l>Mean while all may be fair, diſſemble what</l>
+                     <l>We can't digeſt, nor can we er'e be greater</l>
+                     <l>The King, good man, is old, and minds his Beads,</l>
+                     <l>His Prieſts and Hounds ſhare all his time between 'em.</l>
+                     <l>Sometimes wee'l bring him out, and let him walk</l>
+                     <l>A turn or two, as the <hi>Chineſe</hi> their Emperors,</l>
+                     <l>To let the people know he's ſtill alive.</l>
+                     <l>And make all preparation neceſſary</l>
+                     <l>To oppoſe the Engliſh, if they ſhou'd deſcend</l>
+                     <l>On any part o'th' Iſland.</l>
+                  </sp>
+                  <pb n="48" facs="tcp:103279:28"/>
+                  <stage>Enter Meſſenger with a Rope about his neck.</stage>
+                  <sp>
+                     <speaker>Meſſ.</speaker>
+                     <l>Poſt from the North I bear the dreadful news</l>
+                     <l>The Sea's all covered with the Engliſh Fleet,</l>
+                     <l>A thouſand Sail I think, for there's no end,</l>
+                     <l>And bore directly in for <hi>Bangor Bay.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrc.</speaker>
+                     <l>—'Tis well enough, I doubted they wou'd bid</l>
+                     <l>For <hi>Dublin,</hi> we have time and ground and men,</l>
+                     <l>Sufficient for 'em, come they when they will.</l>
+                  </sp>
+                  <stage>Enter another Meſſenger as the former.</stage>
+                  <sp>
+                     <speaker>Meſſenger,</speaker>
+                     <l>The Enemies landed all in <hi>Bangor Bay.</hi>
+                     </l>
+                     <l>
+                        <hi>Belfaſt</hi> already's yielded, <hi>Carrick-fergus</hi>
+                     </l>
+                     <l>Inveſted round, and gone by this, the Countrey</l>
+                     <l>Roll in amain, the Engliſh drive along</l>
+                     <l>And none or can or dare reſiſt the Torrent.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Nugent,</speaker>
+                     <l>Time enough yet, they will be out of breath</l>
+                     <l>And 'twill be our turns then to march and meet 'em.</l>
+                     <l>Already we are rendevouzed betwixt</l>
+                     <l>
+                        <hi>Dundalk</hi> and famed <hi>Tredagh,</hi> when they come thither</l>
+                     <l>(But firſt they have the <hi>Newry</hi> to get through,</l>
+                     <l>A Paſs that none can force but bulls or Devils)</l>
+                     <l>We may ſpeak with 'em.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>When we know their numbers,</l>
+                     <l>For Fame ſtill greatens as it farther goes.</l>
+                     <l>Till then lets take what meaſures now are needful,</l>
+                     <l>We've all the Arms already of the Hereticks.</l>
+                     <l>If there are any perſons yet whoſe power</l>
+                     <l>May injure us, let them too be ſecured,</l>
+                     <l>And to amuſe the people, ſet the Prieſts</l>
+                     <l>To Prayer for good ſucceſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Rice,</speaker>
+                     <l>If this blow over,</l>
+                     <l>Or we but keep 'em there at a due diſtance</l>
+                     <l>Wee'l have a Parliament to attaint the Eſtates</l>
+                     <l>Of all that joyn the Engliſh, or abſent,</l>
+                     <l>And tare in pieces thoſe faint Nun-ſpun Acts,</l>
+                     <pb n="25" facs="tcp:103279:28" rendition="simple:additions"/>
+                     <l>Made to the prejudice oth' Loyal Iriſh,</l>
+                     <l>Unſettle and unhinge their Settlements,</l>
+                     <l>Law or the Sword wou'd do it, beſt by both;</l>
+                     <l>Dominion to our Country we'l reſtore,</l>
+                     <l>And to proud Conquerers be Slaves no more.</l>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scene II. <hi>The Newry.</hi> Schombergs <hi>Army. The</hi> Inniskilling <hi>Men, &amp;c.</hi>
+                  </head>
+                  <sp>
+                     <speaker>General.</speaker>
+                     <l>Thus far we've only marcht, not fought our way.</l>
+                     <l>Here will be occaſion for your Valour, if</l>
+                     <l>They've but a ſpark of Courage, and tough work</l>
+                     <l>Muſt needs enſue. The Paſs is ſtrong, but muſt</l>
+                     <l>Be won, or we ſtay here.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <l>No, rather in our Graves; we only wait</l>
+                     <l>Orders to charge, as they our doing that,</l>
+                     <l>Unleſs they're ſtrangely changed, to run away.</l>
+                  </sp>
+                  <sp>
+                     <speaker>General.</speaker>
+                     <l>Go take a Party then and try th' event.</l>
+                  </sp>
+                  <stage>
+                     <hi>The</hi> Iriſh <hi>appear poſted advantagiouſly. The</hi> Engliſh <hi>throw themſelves upon 'em, who after two or three Fires, fling their Arms into the River, and ſhift for themſelves.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>General.</speaker>
+                     <l>Both ſides I ſee are very expeditious.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <l>Next for <hi>Dundalk.</hi>
+                     </l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <pb n="26" facs="tcp:103279:29"/>
+                  <head>Scene III. Dublin.</head>
+                  <stage>Tyrconnel, Nugent, Neagle, Iriſh Lords. To 'em a Meſſenger.</stage>
+                  <sp>
+                     <speaker>Meſſ.</speaker>
+                     <l>The Newry's loſt; and on the Plain before</l>
+                     <l>
+                        <hi>Dundalk</hi> I ſaw the <hi>Engliſh</hi> Troops advance</l>
+                     <l>Er'e I came thence. By this they muſt be there.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>Sure they fly.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Nug.</speaker>
+                     <l>I doubt tis ours do ſo. But are our Army</l>
+                     <l>Ready to meet 'em there?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>They'r all prepared.</l>
+                     <l>We know their formidable Numbers too;</l>
+                     <l>Some twenty thouſand only at the moſt:</l>
+                     <l>We thrice out-number 'em; and when they know</l>
+                     <l>Our force, will ſure retire faſter than they</l>
+                     <l>March'd forward— but my Lords, I'll to the Army,</l>
+                     <l>The King will do no hurt, what's yet left of him:</l>
+                     <l>If hee's there too, perhaps ſome of the Rebels</l>
+                     <l>Will yield at his approach. Beſides already</l>
+                     <l>We've many Friends in <hi>Schomberg</hi>'s Camp, from whence</l>
+                     <l>We nere ſhall want intelligence at leaſt,</l>
+                     <l>Perhaps do ſomething more.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Neag.</speaker>
+                     <l>Succeſs attend your Excellency thither.</l>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <head>Scene IV. Dundalk.</head>
+                  <stage>Engliſh Army, General, Council of War, Officers, &amp;c.</stage>
+                  <sp>
+                     <speaker>General.</speaker>
+                     <l>I know the Engliſh Genius and their Fire,</l>
+                     <l>My Country-men have ofte felt 'em both.</l>
+                     <pb n="27" facs="tcp:103279:29"/>
+                     <l>And now, tis granted they'll but fight their Slaves.</l>
+                     <l>— But then the diſproportion is ſo huge,</l>
+                     <l>Our Horſe ſo few and weak, their's ſtrong and numerous,</l>
+                     <l>Their Foot four times at leaſt more than the <hi>Engliſh,</hi>
+                     </l>
+                     <l>'Twou'd be too great hazard to attempt;</l>
+                     <l>Too great a price, ev'n Victory to gain</l>
+                     <l>By breaking all our Army, ere more Force</l>
+                     <l>Arrive to joyn us, or advantage offers.</l>
+                     <l>We've here firm footing, whence they nere can beat us;</l>
+                     <l>If they attempt, they fight at diſadvantage;</l>
+                     <l>And only come to meet prepared Deſtruction.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Officer.</speaker>
+                     <l>We muſt ſubmit, tho 'tis a thing looks ſtrange</l>
+                     <l>To Engliſhmen thus coopt, to wait the Enemy,</l>
+                     <l>Who always uſed to ſeek 'em, and dy here</l>
+                     <l>By ſickneſs, cloſeneſs, and thick foggy Air,</l>
+                     <l>Who bravely might for a good purchaſe ſell</l>
+                     <l>Our Lives, and get eternal Fame by loſing 'em.</l>
+                  </sp>
+                  <sp>
+                     <speaker>General.</speaker>
+                     <l>Which ever way they'r loſt; if in defence</l>
+                     <l>Tis of your Country, and obedience to</l>
+                     <l>So good a King, you never cou'd fall braver.</l>
+                     <l>— But to that reaſon I before advance</l>
+                     <l>Againſt Engagement, there's perhaps a greater,</l>
+                     <l>A ſecret kept till now — I have Intelligence</l>
+                     <l>There's a deſign form'd to betray the Camp</l>
+                     <l>To th' Enemy — We ſhall hear more on't ſpeedily;</l>
+                     <l>The Guards are doubled, and I wait each minute</l>
+                     <l>Some falſe Deſerters making to the Enemy,</l>
+                     <l>Who are ſo ſtrictly watcht they can't eſcape.</l>
+                     <l>And here they come—</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter Souldiers, with a Deſerter, his Hands tied,</hi> &amp;c.</stage>
+                  <sp>
+                     <speaker>Deſerter.</speaker>
+                     <l>Mercy, my Lord, and I'll diſcover all.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Officer.</speaker>
+                     <l>We've ſeiz'd his Papers which have don't already,</l>
+                     <l>A draught of all the Camp, and each weak place</l>
+                     <l>Deſcribed that's in it— A Liſt of ſeveral Officers</l>
+                     <pb n="28" facs="tcp:103279:30" rendition="simple:additions"/>
+                     <l>And Souldiers, who deſign to joyn the Enemy,</l>
+                     <l>When we engage; or when they'r on the Guard:</l>
+                     <l>Deliver up the Gates.</l>
+                  </sp>
+                  <sp>
+                     <speaker>General.</speaker>
+                     <l>Now Gentlemen,</l>
+                     <l>You ſee my Reaſon— Go and hang him inſtantly,</l>
+                     <l>As ſoon as his Confederates are ſeiz'd:</l>
+                     <l>Proclaim immediate Death to every Papiſt,</l>
+                     <l>Who owns not his Religion publickly.</l>
+                     <l>Guard well the Avenues. To night my ſelf</l>
+                     <l>I'll walk the Rounds to ſee you do your Duties,</l>
+                     <l>And ſhall ſeverely puniſh negligence.</l>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+               <div n="5" type="scene">
+                  <head>Scene V. Iriſh Camp.</head>
+                  <stage>
+                     <hi>Enter</hi> Tyrconel, Hamilton, Clancarty, <hi>Monſieur de</hi> Rozen, <hi>&amp;c.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>Tho' our deſigns are on their Camp diſcovered,</l>
+                     <l>And that ſly Fox their General, poſts himſelf,</l>
+                     <l>Where none can touch him— 'tis full out as well;</l>
+                     <l>Diſtempers will their buſineſs do, and ſave</l>
+                     <l>Our Swords the Labour— They already drop,</l>
+                     <l>Proviſion comes but ſlowly, our thick Fogs</l>
+                     <l>Pleaſe not their queaſy Stomachs; they'll begin</l>
+                     <l>To wiſh for home. What if our own fall with 'em,</l>
+                     <l>As hundreds do each week? — 'Tis a fair change</l>
+                     <l>And we can ſpare 'em. What's a Subjects Life,</l>
+                     <l>A hundreds, thouſands, or a millions to</l>
+                     <l>A great mans Intereſt?— The next News we hear,</l>
+                     <l>They leave <hi>Dundalk,</hi> and then — beware their Rear.</l>
+                     <stage>Exeunt Omnes.</stage>
+                  </sp>
+               </div>
+               <div n="6" type="scene">
+                  <pb n="29" facs="tcp:103279:30" rendition="simple:additions"/>
+                  <head>Scene VI. Dundalk, as before.</head>
+                  <stage>Moſt of the Souldiers ſick, many dead, the reſt pining.</stage>
+                  <stage>Enter a Collonel and two Captains.</stage>
+                  <sp>
+                     <speaker>1. <hi>Capt.</hi>
+                     </speaker>
+                     <l>Ah Collonel! — Was't for this we hither came,</l>
+                     <l>To lay our bones in this accurſed Country</l>
+                     <l>Without a blow— The Land of Want and Famine,</l>
+                     <l>Sickneſs and Miſery, and Grief and Death.—</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Capt.</hi>
+                     </speaker>
+                     <l>Death Captain! and d'ye reckon that among the Grievances</l>
+                     <l>And cou'd you have the Conſcience to ask more?</l>
+                     <l>Had we but that, and honeſtly and fairly</l>
+                     <l>Had theſe two Arms bin torn with Chain-ſhot from me,</l>
+                     <l>Not pined away with dull dull lingring torments</l>
+                     <l>Twou'd nere have made me ſigh.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Collon.</speaker>
+                     <l>I own t'is hard.</l>
+                     <l>Nor have you only ſuffered, — None can blame</l>
+                     <l>Our prudent General, who moved at laſt,</l>
+                     <l>With the Condition of this Skeleton,</l>
+                     <l>Of what was once an Army, has gi'en Orders.</l>
+                     <l>To quit this fatal place, and march agen</l>
+                     <l>Beyond the <hi>Newry,</hi> there to quarter till</l>
+                     <l>Recruits and better Seaſons call for Action.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Capt.</speaker>
+                     <l>Nay, then there's hope we yet may pay our Land-Lords;</l>
+                     <l>And thank them for their courteous Entertainment.</l>
+                     <l>
+                        <hi>Dundalk</hi> adieu: Had but the Traytors doom</l>
+                     <l>Bin changed, we died, they guarded in our Room,</l>
+                     <l>They'd had the worſe, we the far better choice,</l>
+                     <l>And ſhou'd at ſuch a wiſh'd exchange rejoice.</l>
+                     <l>V<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lleys of Curſes be thy laſt Farewell,</l>
+                     <l>Thou Map of <hi>Ireland,</hi> and thou Map of Hell.</l>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <pb n="30" facs="tcp:103279:31" rendition="simple:additions"/>
+               <head>ACT. V.</head>
+               <div n="1" type="scene">
+                  <head>Scene I. <hi>Iriſh Army at</hi> Dundalk.</head>
+                  <stage>
+                     <hi>Tyrconnel, Lazune, Hamilton, Clancarty,</hi> &amp;c.</stage>
+                  <sp>
+                     <speaker>Tyrcon.</speaker>
+                     <l>ONce more we're here agen — tis a kind Omen,</l>
+                     <l>May all the reſt return as does <hi>Dundalk.</hi>
+                     </l>
+                     <l>Quick — after with the Horſe, cut off their Rear,</l>
+                     <l>And drive the Rebels back into the Sea.</l>
+                     <l>— Nor ſhall that ſave 'em, thither and beyond</l>
+                     <l>We'll follow—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hamil.</speaker>
+                     <l>Firſt diſcover in what order</l>
+                     <l>They march, and where they ſtand — tis probable</l>
+                     <l>They'll keep the <hi>Newry</hi>-Paſs and in that Country</l>
+                     <l>Endeavour to ſecure their Winter Quarters.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Clanc.</speaker>
+                     <l>Then we muſt force it inſtantly, nor ſuffer</l>
+                     <l>Their harbring there— They'r on the run already,</l>
+                     <l>And ſoon will quit it when our Troops approach,</l>
+                     <l>Who ſo much Valour have already ſhown</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tyre.</speaker>
+                     <l>Let it be done, and <hi>Ireland</hi>'s all our own.</l>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scene II. <hi>The Newry.</hi>
+                  </head>
+                  <stage>A Party of Iriſh — Officers, Souldiers, &amp;c.</stage>
+                  <sp>
+                     <speaker>Offic.</speaker>
+                     <l>March quick and cloſe— They take not yet th' Alarm.</l>
+                     <l>The Town's already ours— The Priſoner whom</l>
+                     <l>We lately took, informs there's ſcrarce a hundred</l>
+                     <l>Yet left alive, and thoſe half ſick and languiſhing;</l>
+                     <l>The reſt or careleſs are or deſperate,</l>
+                     <l>Nor dream of that warm viſit we ſhall make 'em.</l>
+                  </sp>
+                  <stage>The Centry diſcovers 'em, and fires three times, retiring.</stage>
+                  <pb n="31" facs="tcp:103279:31"/>
+                  <sp>
+                     <speaker>Officer.</speaker>
+                     <l>Diſcovered— But too late for their prevention;</l>
+                     <l>In— and we're Conquerers—</l>
+                  </sp>
+                  <stage>They enter the Town— Several Officers come out in their ſhirts, and are knockt oth' head. A Drummer beats an Alarm, and a few of the Engliſh gather in the Streets.</stage>
+                  <sp>
+                     <speaker>Eng. Offic.</speaker>
+                     <l>Ha— are you come ſo far to hinder us</l>
+                     <l>From dying now in quiet— Fellow Souldiers,</l>
+                     <l>You ſee 'em— Rally here behind this Cart,</l>
+                     <l>And give one Charge— if they march not back</l>
+                     <l>At their accuſtomed pace— I'll e'ne run for 'em.</l>
+                  </sp>
+                  <stage>[The Engliſh charge— The Iriſh run]</stage>
+                  <stage>Enter ſeveral Engliſh Souldiers crawling upon their Hands and Feet with their Muſquets in their Hands.</stage>
+                  <sp>
+                     <speaker>Officer.</speaker>
+                     <l>Poor Wretches—What d'ye mean— You'r fitter for</l>
+                     <l>Your Beds or th' Hoſpital, than War and Action.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Sould.</hi>
+                     </speaker>
+                     <l>Noble Captain — Let me have but ſhot at 'em,</l>
+                     <l>And then I'll dy contented.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Sould.</hi>
+                     </speaker>
+                     <l>Now we're their Matches, 'twere not fair to fight 'em,</l>
+                     <l>If ſtrong and well as they.</l>
+                  </sp>
+                  <stage>
+                     <hi>They both get up to a Bank, fire their Pieces at the</hi> Iriſh, <hi>and fall dead themſelves.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Offic.</speaker>
+                     <l>'Twas done like Engliſhmen— Their Courage did</l>
+                     <l>Almoſt outlaſt their Breath— but were too weak</l>
+                     <l>To follow theſe — who, leſt agen they rally</l>
+                     <l>And come more numerous— Souldiers, poſt away</l>
+                     <l>For ſpeedy Succour.</l>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>Scene III. <hi>Belfaſt.</hi>
+                  </head>
+                  <stage>General, Several Officers.</stage>
+                  <sp>
+                     <speaker>Gener.</speaker>
+                     <l>Heaven ſmiles agen— The Sun has dreſt the Air</l>
+                     <l>With fragrant blooms — nor is the Earth leſs fair,</l>
+                     <pb n="32" facs="tcp:103279:32" rendition="simple:additions"/>
+                     <l>Supplies from <hi>England</hi> every day appear</l>
+                     <l>And more— the King himſelf will ſoon be here.</l>
+                     <l>Who wou'd not fight when ſuch a General leads</l>
+                     <l>Who in the Steps of Ancient Heroes treads,</l>
+                     <l>Deſpiſes Danger, and himſelf can meet,</l>
+                     <l>What wou'd make meaner Souls diſſolve to fee't?</l>
+                     <l>Each hour we him expect, and when he comes;</l>
+                     <l>Then for the Field and Fame, for Palms or Tombs.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>Scene IV. <hi>The Royal Fleet at the Bay of</hi> Bangor— <hi>The</hi> Mary <hi>Yacht with the Standard— All the Shore enlightned with Bonfires.</hi> Belfaſt.</head>
+                  <stage>The General, Officers, Meſſenger.</stage>
+                  <sp>
+                     <speaker>Meſſeng.</speaker>
+                     <l>From <hi>Carick-ſergus</hi> Garriſon I bring</l>
+                     <l>News of the ſafe Arrival of the King.</l>
+                     <l>Five hundred Sail attend him — ſuch a ſight</l>
+                     <l>As glads the Shore more than each Feſtal Light</l>
+                     <l>Kindled at his approach.</l>
+                  </sp>
+                  <sp>
+                     <speaker>General.</speaker>
+                     <l>A joyful ſound!</l>
+                     <l>Go fire the Train, and ſend the News around:</l>
+                     <l>Let all our Quarters the bleſt Tidings hear,</l>
+                     <l>And all the Bogs in <hi>Ireland</hi> quake for fear.</l>
+                     <l>Their Fate is come — The Pageant King muſt run;</l>
+                     <l>And once agen fly from the conſcious Sun.</l>
+                     <l>And in ſome Monaſtery hide his Head</l>
+                     <l>Midſt lonely Tombs, and the polluted Dead.</l>
+                     <l>While that bright Hero who ſupplies his place,</l>
+                     <l>Sways his ſtrong Scepter with ſo great a Grace:</l>
+                     <l>In trembling <hi>France</hi> ſhall give new wonders Birth,</l>
+                     <l>And rend the witherd <hi>Lilies</hi> from the Earth.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <trailer>The end of the Firſt Part.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
